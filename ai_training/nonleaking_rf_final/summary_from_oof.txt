@@ -1,0 +1,5 @@
+OOF (non-leaking GroupKFold)
+AUC=nan
+ACC=1.0000
+F1=0.0000
+MCC=0.0000

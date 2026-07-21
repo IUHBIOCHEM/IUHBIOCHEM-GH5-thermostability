@@ -1,0 +1,83 @@
+pdb,organism,thermal_class,n_residues,salt_bridges,salt_bridges_per_100res,surface_charged_residues,surface_charged_per_100res
+1CZ1,Candida albicans,mesophile,394,25,6.35,25,6.35
+1EDG,Ruminiclostridium cellulolyticum H10,mesophile,380,21,5.53,17,4.47
+1EGZ,Dickeya chrysanthemi,mesophile,291,19,6.53,30,10.31
+1EQC,Candida albicans,mesophile,394,24,6.09,27,6.85
+1EQP,Candida albicans,mesophile,394,25,6.35,25,6.35
+1H4P,Saccharomyces cerevisiae,mesophile,408,32,7.84,37,9.07
+2PB1,Candida albicans,mesophile,394,23,5.84,26,6.6
+2PBO,Candida albicans,mesophile,394,26,6.6,22,5.58
+2PC8,Candida albicans,mesophile,394,22,5.58,26,6.6
+2PF0,Candida albicans,mesophile,394,24,6.09,22,5.58
+3N9K,Candida albicans,mesophile,394,21,5.33,16,4.06
+3NDY,Clostridium cellulovorans,mesophile,345,24,6.96,7,2.03
+3NDZ,Clostridium cellulovorans,mesophile,345,24,6.96,5,1.45
+3O6A,Candida albicans,mesophile,394,25,6.35,26,6.6
+3PZT,Bacillus subtilis subsp. subtilis str. 168,mesophile,293,26,8.87,23,7.85
+3PZU,Bacillus subtilis subsp. subtilis str. 168,mesophile,297,28,9.43,23,7.74
+3PZV,Bacillus subtilis subsp. subtilis str. 168,mesophile,298,24,8.05,43,14.43
+3ZIZ,Podospora anserina,mesophile,345,22,6.38,7,2.03
+4LX4,Stutzerimonas stutzeri A1501,mesophile,322,22,6.83,27,8.39
+4M80,Candida albicans SC5314,mesophile,393,23,5.85,27,6.87
+4M81,Candida albicans SC5314,mesophile,394,18,4.57,15,3.81
+4M82,Candida albicans SC5314,mesophile,393,20,5.09,16,4.07
+4NF7,Butyrivibrio proteoclasticus B316,mesophile,363,24,6.61,34,9.37
+4TUF,Xanthomonas campestris pv. campestris str. ATCC 33913,mesophile,346,19,5.49,21,6.07
+4V2X,Halalkalibacterium halodurans,mesophile,534,32,5.99,35,6.55
+4YZP,Bacillus licheniformis,mesophile,509,34,6.68,25,4.91
+4YZT,Bacillus licheniformis,mesophile,512,30,5.86,17,3.32
+5A8M,Saccharophagus degradans 2-40,mesophile,331,21,6.34,21,6.34
+5A8N,Saccharophagus degradans 2-40,mesophile,336,24,7.14,35,10.42
+5A8O,Saccharophagus degradans 2-40,mesophile,336,20,5.95,33,9.82
+5A8P,Saccharophagus degradans 2-40,mesophile,336,21,6.25,32,9.52
+5A8Q,Saccharophagus degradans 2-40,mesophile,336,22,6.55,25,7.44
+5A94,Saccharophagus degradans 2-40,mesophile,335,23,6.87,28,8.36
+5A95,Saccharophagus degradans 2-40,mesophile,337,23,6.82,12,3.56
+5OYC,Cellvibrio japonicus Ueda107,mesophile,373,18,4.83,12,3.22
+5OYD,Cellvibrio japonicus Ueda107,mesophile,370,17,4.59,34,9.19
+5OYE,Cellvibrio japonicus Ueda107,mesophile,372,18,4.84,36,9.68
+6D2W,Segatella baroniae B14,mesophile,687,29,4.22,18,2.62
+6GL0,Zobellia galactanivorans,mesophile,331,22,6.65,31,9.37
+6GL2,Zobellia galactanivorans,mesophile,331,23,6.95,16,4.83
+6HA9,Cellvibrio japonicus Ueda107,mesophile,370,16,4.32,33,8.92
+6HAA,Cellvibrio japonicus Ueda107,mesophile,370,16,4.32,27,7.3
+6PZ7,Clostridium acetobutylicum ATCC 824,mesophile,330,16,4.85,16,4.85
+6R2J,Stutzerimonas stutzeri A1501,mesophile,326,23,7.06,12,3.68
+6UI3,Clostridium cellulovorans,mesophile,337,22,6.53,10,2.97
+6WQP,Ruminococcus champanellensis,mesophile,347,17,4.9,11,3.17
+6WQV,Ruminococcus champanellensis,mesophile,348,18,5.17,6,1.72
+8BQB,Cellvibrio japonicus Ueda107,mesophile,331,29,8.76,44,13.29
+8BQC,Cellvibrio japonicus,mesophile,298,16,5.37,7,2.35
+8EXD,Aspergillus fumigatus Af293,mesophile,670,46,6.87,97,14.48
+8GHX,Piromyces finnis,mesophile,362,25,6.91,54,14.92
+8GHY,Piromyces finnis,mesophile,362,26,7.18,36,9.94
+8OZ1,Cellvibrio japonicus Ueda107,mesophile,373,19,5.09,18,4.83
+8Z2X,Aspergillus oryzae,mesophile,386,28,7.25,34,8.81
+8Z2Y,Aspergillus oryzae,mesophile,382,27,7.07,18,4.71
+9BJX,Segatella copri DSM 18205,mesophile,368,28,7.61,35,9.51
+9BMK,Segatella copri DSM 18205,mesophile,366,23,6.28,47,12.84
+1ECE,Acidothermus cellulolyticus,thermophile,358,21,5.87,10,2.79
+1VRX,Acidothermus cellulolyticus,thermophile,358,21,5.87,13,3.63
+2Y8K,Acetivibrio thermocellus,thermophile,481,23,4.78,6,1.25
+3AMC,Thermotoga maritima MSB8,thermophile,308,25,8.12,26,8.44
+3AMD,Thermotoga maritima MSB8,thermophile,311,26,8.36,47,15.11
+3AMG,Thermotoga maritima MSB8,thermophile,311,28,9.0,58,18.65
+3AOF,Thermotoga maritima MSB8,thermophile,308,25,8.12,26,8.44
+3AZR,Thermotoga maritima MSB8,thermophile,311,27,8.68,38,12.22
+3AZS,Thermotoga maritima MSB8,thermophile,308,26,8.44,32,10.39
+3AZT,Thermotoga maritima MSB8,thermophile,311,24,7.72,36,11.58
+3MMU,Thermotoga maritima,thermophile,309,31,10.03,43,13.92
+3MMW,Thermotoga maritima,thermophile,309,32,10.36,39,12.62
+3NCO,Fervidobacterium nodosum Rt17-B1,thermophile,310,24,7.74,21,6.77
+3RJX,Fervidobacterium nodosum Rt17-B1,thermophile,313,23,7.35,40,12.78
+3RJY,Fervidobacterium nodosum Rt17-B1,thermophile,310,18,5.81,33,10.65
+4IM4,Acetivibrio thermocellus,thermophile,336,25,7.44,23,6.85
+4U3A,Acetivibrio thermocellus ATCC 27405,thermophile,292,26,8.9,45,15.41
+4U5I,Acetivibrio thermocellus ATCC 27405,thermophile,295,23,7.8,30,10.17
+4U5K,Acetivibrio thermocellus ATCC 27405,thermophile,304,27,8.88,24,7.89
+5BYW,Acetivibrio thermocellus ATCC 27405,thermophile,319,27,8.46,40,12.54
+5G56,Acetivibrio thermocellus,thermophile,703,37,5.26,48,6.83
+5LA0,Acetivibrio thermocellus JW20,thermophile,476,29,6.09,16,3.36
+5LA1,Acetivibrio thermocellus JW20,thermophile,474,27,5.7,12,2.53
+5LA2,Acetivibrio thermocellus,thermophile,464,25,5.39,12,2.59
+8B3Y,Thermogutta terrifontis,thermophile,335,31,9.25,34,10.15

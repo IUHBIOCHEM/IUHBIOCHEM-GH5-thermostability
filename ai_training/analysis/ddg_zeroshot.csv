@@ -1,0 +1,5 @@
+mutation,wt,pos_3PZT,to,ESM2_LLR,prediction,thermo_charged_%,delta_%
+A222K,A,222,K,1.971,favorable,67.4,43.2
+S248E,S,248,E,-1.814,unfavorable,75.3,36.2
+N244K,N,244,K,-6.467,unfavorable,68.5,35.9
+N110E,N,110,E,0.042,favorable,82.0,16.6

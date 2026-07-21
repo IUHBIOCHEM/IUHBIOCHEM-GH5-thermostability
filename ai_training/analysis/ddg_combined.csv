@@ -1,0 +1,5 @@
+mutation,family_delta_%,ESM2_LLR,FoldX_ddG,FoldX_SD,FoldX_verdict
+N110E,16,0.04,-0.66,0.14,stabilizing
+N244K,35,-6.47,-0.27,0.02,neutral
+A222K,43,1.97,0.15,0.01,neutral
+S248E,36,-1.81,0.75,0.07,destabilizing

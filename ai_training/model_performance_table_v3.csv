@@ -1,0 +1,6 @@
+Metric,Value,Description
+Accuracy,0.9075,Tổng độ chính xác dự đoán
+Precision (Positive),0.4333,"Độ tin cậy khi máy báo ""Bền nhiệt"""
+Recall (Sensitivity),0.8966,Khả năng không bỏ sót mẫu bền nhiệt
+F1-Score,0.5843,Chỉ số cân bằng giữa Precision và Recall
+ROC-AUC,0.9677,Khả năng phân loại tổng quát (AUC)

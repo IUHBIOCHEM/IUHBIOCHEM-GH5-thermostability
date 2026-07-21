@@ -1,0 +1,6 @@
+Feature,Mean_High,Mean_Low,P_value,Significant
+Aliphatic_Index,96.943,75.963,1.97e-03,Yes
+Instability_Index,33.687,30.253,5.89e-01,No
+Aromaticity,0.06,0.101,1.74e-01,No
+Isoelectric_Point,7.64,6.333,1.51e-01,No
+GRAVY,-0.03,-0.315,1.03e-02,Yes

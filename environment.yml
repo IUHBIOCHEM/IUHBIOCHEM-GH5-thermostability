@@ -1,0 +1,28 @@
+name: gh5-thermostability
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - biopython==1.86
+      - pandas==2.3.3
+      - numpy==2.4.1
+      - scipy==1.16.3
+      - scikit-learn==1.8.0
+      - pyhmmer==0.12.1
+      - torch==2.13.0
+      - fair-esm==2.0.0
+      - freesasa==2.2.1
+      - umap-learn==0.5.12
+      - shap==0.52.0
+      - matplotlib==3.10.8
+      - seaborn==0.13.2
+      - transformers==5.13.0
+      - zeep==4.3.3
+      - requests==2.32.5
+      - imbalanced-learn==0.14.1
+      - joblib==1.5.3
+      - Pillow==12.0.0
+      - python-docx==1.2.0
+      - openpyxl==3.1.5

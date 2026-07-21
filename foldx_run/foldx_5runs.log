@@ -1,0 +1,124 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+ *** THIS IS AN IMPORTANT MESSAGE: 
+ >> External parametrized molecules were detected...
+ >> Final energetic values will depend of the correct parametrization of this molecules. 
+
+
+1 models read: 3PZT_Repair.pdb
+1 models read: 3PZT_Repair.pdb
+
+BackHbond       =               -460.72
+SideHbond       =               -262.71
+Energy_VdW      =               -751.86
+Electro         =               -47.77
+Energy_SolvP    =               1049.03
+Energy_SolvH    =               -978.98
+Energy_vdwclash =               22.95
+energy_torsion  =               24.54
+backbone_vdwclash=              411.96
+Entropy_sidec   =               371.25
+Entropy_mainc   =               940.89
+water bonds     =               0.00
+helix dipole    =               -0.79
+loop_entropy    =               0.00
+cis_bond        =               3.78
+disulfide       =               0.00
+kn electrostatic=               -0.51
+partial covalent interactions = -11.61
+Energy_Ionisation =             3.09
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -99.42
+
+
+BackHbond       =               -460.72
+SideHbond       =               -262.71
+Energy_VdW      =               -751.86
+Electro         =               -47.77
+Energy_SolvP    =               1049.03
+Energy_SolvH    =               -978.98
+Energy_vdwclash =               22.95
+energy_torsion  =               24.54
+backbone_vdwclash=              411.96
+Entropy_sidec   =               371.25
+Entropy_mainc   =               940.89
+water bonds     =               0.00
+helix dipole    =               -0.79
+loop_entropy    =               0.00
+cis_bond        =               3.78
+disulfide       =               0.00
+kn electrostatic=               -0.51
+partial covalent interactions = -11.61
+Energy_Ionisation =             3.09
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -99.42
+
+Starting BuildModel
+Reading QB58K;
+Reading NB158K;
+Reading QB41E;
+Reading TB89K;
+Residue to Mutate GLNB58 has residue index 315
+Residue to Mutate ASNB158 has residue index 415
+Residue to Mutate GLNB41 has residue index 298
+Residue to Mutate THRB89 has residue index 346
+Mutating residue = GLNB58 into LYS
+Mutating residue = GLNB58 into LYS
+Mutating residue = GLNB58 into LYS
+Mutating residue = GLNB58 into LYS
+Mutating residue = GLNB58 into LYS
+Mutating residue = ASNB158 into LYS
+Mutating residue = ASNB158 into LYS
+Mutating residue = ASNB158 into LYS
+Mutating residue = ASNB158 into LYS
+Mutating residue = ASNB158 into LYS
+Mutating residue = GLNB41 into GLU
+Mutating residue = GLNB41 into GLU
+Mutating residue = GLNB41 into GLU
+Mutating residue = GLNB41 into GLU
+Mutating residue = GLNB41 into GLU
+Mutating residue = THRB89 into LYS
+Mutating residue = THRB89 into LYS
+Mutating residue = THRB89 into LYS
+Mutating residue = THRB89 into LYS
+Mutating residue = THRB89 into LYS
+Your file run OK
+End time of FoldX: Thu Jul  9 22:56:08 2026
+Total time spend: 62.62 seconds.
+validated file "3PZT_Repair_1_0.pdb" => successfully finished
+validated file "3PZT_Repair_1_1.pdb" => successfully finished
+validated file "3PZT_Repair_1_2.pdb" => successfully finished
+validated file "3PZT_Repair_1_3.pdb" => successfully finished
+validated file "3PZT_Repair_1_4.pdb" => successfully finished
+validated file "3PZT_Repair_2_0.pdb" => successfully finished
+validated file "3PZT_Repair_2_1.pdb" => successfully finished
+validated file "3PZT_Repair_2_2.pdb" => successfully finished
+validated file "3PZT_Repair_2_3.pdb" => successfully finished
+validated file "3PZT_Repair_2_4.pdb" => successfully finished
+validated file "3PZT_Repair_3_0.pdb" => successfully finished
+validated file "3PZT_Repair_3_1.pdb" => successfully finished
+validated file "3PZT_Repair_3_2.pdb" => successfully finished
+validated file "3PZT_Repair_3_3.pdb" => successfully finished
+validated file "3PZT_Repair_3_4.pdb" => successfully finished
+validated file "3PZT_Repair_4_0.pdb" => successfully finished
+validated file "3PZT_Repair_4_1.pdb" => successfully finished
+validated file "3PZT_Repair_4_2.pdb" => successfully finished
+validated file "3PZT_Repair_4_3.pdb" => successfully finished
+validated file "3PZT_Repair_4_4.pdb" => successfully finished
+Cleaning BuildModel...DONE

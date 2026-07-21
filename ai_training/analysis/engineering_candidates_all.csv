@@ -1,0 +1,5 @@
+mutation,wt,pos,to,thermo_charged_%,meso_charged_%,delta_%,RSA_3PZT,dist_catGlu_A
+A222K,A,222,K,67.4,24.2,43.2,0.72,15.2
+S248E,S,248,E,75.3,39.1,36.2,0.88,26.5
+N244K,N,244,K,68.5,32.6,35.9,0.38,27.7
+N110E,N,110,E,82.0,65.4,16.6,0.63,19.5

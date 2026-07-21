@@ -1,0 +1,378 @@
+EC,Organism,Topt,Topt_max,Commentary
+3.2.1.4,Fibrobacter succinogenes,25.0,,catalytic domain of endoglucanase G
+3.2.1.4,Marinobacter sp.,27.0,35.0,
+3.2.1.4,Bacillus licheniformis,30.0,,
+3.2.1.4,Catharanthus roseus,30.0,35.0,
+3.2.1.4,Citrobacter farmeri,30.0,40.0,
+3.2.1.4,Fibrobacter succinogenes,30.0,,hydrolysis of carboxymethylcellulose
+3.2.1.4,Mesocentrotus nudus,30.0,,assay at
+3.2.1.4,Paenibacillus sp. Y2,30.0,,
+3.2.1.4,Teredinibacter waterburyi,30.0,50.0,
+3.2.1.4,uncultured bacterium,30.0,,
+3.2.1.4,uncultured bacterium,30.0,,assay at
+3.2.1.4,Bacillus sp. (in: firmicutes),35.0,,
+3.2.1.4,Cellulomonas sp.,35.0,,
+3.2.1.4,Ganoderma lucidum,35.0,,
+3.2.1.4,Phaseolus vulgaris,35.0,43.0,"cellulase 4.8, hydrolysis of carboxymethylcellulose"
+3.2.1.4,Pseudomonas fluorescens,35.0,,
+3.2.1.4,Salinivibrio sp. NTU-05,35.0,,
+3.2.1.4,Alternaria sp.,37.0,,assay at
+3.2.1.4,Arthrinium sp.,37.0,,assay at
+3.2.1.4,Aspergillus sp.,37.0,,assay at
+3.2.1.4,Aureobasidium sp.,37.0,,assay at
+3.2.1.4,Bipolaris sp.,37.0,,assay at
+3.2.1.4,Cellulomonas fimi,37.0,,assay at
+3.2.1.4,Cellulomonas fimi,37.0,,assay at
+3.2.1.4,Cephalosporium sp.,37.0,,assay at
+3.2.1.4,Chloridium sp.,37.0,,assay at
+3.2.1.4,Cladosporium sp.,37.0,,assay at
+3.2.1.4,Clostridium cellulovorans,37.0,,
+3.2.1.4,Coptotermes formosanus,37.0,,assay at
+3.2.1.4,Cordyceps sp.,37.0,,assay at
+3.2.1.4,Dothideomycetes sp.,37.0,,assay at
+3.2.1.4,Epicoccum sp.,37.0,,assay at
+3.2.1.4,Exophiala sp.,37.0,,assay at
+3.2.1.4,Microdochium sp.,37.0,,assay at
+3.2.1.4,Minimidochium sp. TMS-2011,37.0,,assay at
+3.2.1.4,Neurospora crassa,37.0,,assay at
+3.2.1.4,Nigrospora sp.,37.0,,assay at
+3.2.1.4,Nilaparvata lugens,37.0,,
+3.2.1.4,Penicillium sp.,37.0,,assay at
+3.2.1.4,Phanerodontia chrysosporium,37.0,,assay at
+3.2.1.4,Phoma sp.,37.0,,assay at
+3.2.1.4,Reticulitermes speratus,37.0,,assay at
+3.2.1.4,Rhodonia placenta,37.0,,assay at
+3.2.1.4,Sporothrix sp.,37.0,,assay at
+3.2.1.4,Trichoderma reesei,37.0,,enzymatic assay at
+3.2.1.4,Trichoderma reesei,37.0,,assay at
+3.2.1.4,Trichoderma sp.,37.0,,assay at
+3.2.1.4,uncultured bacterium,37.0,,
+3.2.1.4,Aspergillus aculeatus,40.0,,
+3.2.1.4,Aspergillus niger,40.0,,
+3.2.1.4,Bacillus subtilis,40.0,,S75 mutant
+3.2.1.4,Cellulophaga lytica,40.0,,
+3.2.1.4,Cohnella sp. A01,40.0,,
+3.2.1.4,Cryptococcus sp. S-2,40.0,50.0,
+3.2.1.4,Cryptopygus antarcticus,40.0,,
+3.2.1.4,Ctenolepisma longicaudatum,40.0,,assay at
+3.2.1.4,Escherichia coli,40.0,,
+3.2.1.4,Euphausia pacifica,40.0,,
+3.2.1.4,Fibrobacter succinogenes,40.0,,enzymatically active domain
+3.2.1.4,Klebsiella pneumoniae,40.0,,
+3.2.1.4,Lysobacter enzymogenes,40.0,,assay at
+3.2.1.4,Lysobacter sp.,40.0,,
+3.2.1.4,Novosphingobium sp.,40.0,,
+3.2.1.4,Orpinomyces joyonii,40.0,,reaction with carboxymethyl cellulose or barley beta-glucan
+3.2.1.4,Photobacterium panuliri,40.0,,
+3.2.1.4,Pseudoalteromonas haloplanktis,40.0,,
+3.2.1.4,Pseudoalteromonas sp.,40.0,,
+3.2.1.4,Pyricularia oryzae,40.0,,
+3.2.1.4,Pyrococcus horikoshii,40.0,,assay at
+3.2.1.4,Rhizobium leguminosarum bv. trifolii,40.0,,
+3.2.1.4,Rhodococcus sp. (in: high G+C Gram-positive bacteria),40.0,,
+3.2.1.4,Ruminococcus albus,40.0,,truncated enzyme form
+3.2.1.4,Stachybotrys chartarum,40.0,,
+3.2.1.4,Streptomyces ruber,40.0,,
+3.2.1.4,Teleogryllus emma,40.0,,
+3.2.1.4,Thermobia domestica,40.0,,assay at
+3.2.1.4,Trichoderma reesei,40.0,50.0,
+3.2.1.4,Clostridium cellulovorans,42.0,,
+3.2.1.4,Clostridium cellulovorans,42.0,,
+3.2.1.4,Clostridium cellulovorans,42.0,,
+3.2.1.4,Aspergillus niger,45.0,,
+3.2.1.4,Aspergillus niger,45.0,50.0,
+3.2.1.4,Aspergillus niger,45.0,,
+3.2.1.4,Bacillus subtilis,45.0,,
+3.2.1.4,Bacillus subtilis,45.0,,
+3.2.1.4,Cytophaga hutchinsonii,45.0,,
+3.2.1.4,Neurospora crassa,45.0,,endoglucanase IV
+3.2.1.4,Penicillium crustosum,45.0,,
+3.2.1.4,Phaseolus vulgaris,45.0,60.0,"cellulase 4.5, hydrolysis of carboxymethylcellulose"
+3.2.1.4,Pseudoalteromonas sp. DY3,45.0,,recombinant enzyme
+3.2.1.4,Ruminiclostridium cellulolyticum,45.0,,activity with phosphoric acid-swollen cellulose
+3.2.1.4,Streptomyces reticuli,45.0,,CMCase 1
+3.2.1.4,Talaromyces pinophilus,45.0,,assay at
+3.2.1.4,Thermomyces lanuginosus,45.0,,
+3.2.1.4,Trichoderma longibrachiatum,45.0,,
+3.2.1.4,Trichoderma reesei,45.0,,assay at
+3.2.1.4,Trichoderma reesei,45.0,,assay at
+3.2.1.4,unidentified microorganism,45.0,,
+3.2.1.4,Xanthomonas campestris pv. campestris,45.0,,
+3.2.1.4,Trichoderma viride,48.0,,endoglucanase IV
+3.2.1.4,Acetivibrio thermocellus,50.0,,truncated enzyme mutant CtLic26A-Cel5
+3.2.1.4,Acetivibrio thermocellus,50.0,,
+3.2.1.4,Acetivibrio thermocellus,50.0,,mutant CtGH5 F194A
+3.2.1.4,Agroathelia rolfsii,50.0,,endoglucanase B and C
+3.2.1.4,Arthrobacter woluwensis,50.0,,
+3.2.1.4,Aspergillus candidus,50.0,,
+3.2.1.4,Aspergillus fumigatus,50.0,,
+3.2.1.4,Bacillus amyloliquefaciens,50.0,,"pH 8.0, substrate: carboxymethylcellulose"
+3.2.1.4,Bacillus cellulyticus K-12,50.0,,
+3.2.1.4,Bacillus licheniformis,50.0,,assay at
+3.2.1.4,Bacillus mycoides,50.0,,
+3.2.1.4,Bacillus pumilus,50.0,,
+3.2.1.4,Bacillus sp. (in: firmicutes),50.0,,
+3.2.1.4,Bacillus sp. (in: firmicutes),50.0,,
+3.2.1.4,Bacillus subtilis,50.0,,Cel5A wild-type and M44-11 mutant
+3.2.1.4,Bacillus subtilis,50.0,,
+3.2.1.4,Bacillus subtilis,50.0,,
+3.2.1.4,Bacillus subtilis,50.0,,
+3.2.1.4,Bacillus subtilis,50.0,,
+3.2.1.4,Bacillus subtilis,50.0,,
+3.2.1.4,Bacillus subtilis,50.0,,
+3.2.1.4,Batocera horsfieldi,50.0,,
+3.2.1.4,Bellamya chinensis laeta,50.0,,
+3.2.1.4,Botryotinia ricini,50.0,,
+3.2.1.4,Brevibacillus sp.,50.0,,crude enzyme extract
+3.2.1.4,Cellulomonas fimi,50.0,,
+3.2.1.4,Fomitopsis palustris,50.0,,
+3.2.1.4,Haloarcula sp.,50.0,,crude enzyme
+3.2.1.4,Irpex lacteus,50.0,,
+3.2.1.4,Irpex lacteus,50.0,,hydrolysis of carboxymethylcellulose and avicel
+3.2.1.4,Lyrodus pedicellatus,50.0,,
+3.2.1.4,Melanocarpus albomyces,50.0,,assay at
+3.2.1.4,Melanocarpus albomyces,50.0,,assay at
+3.2.1.4,Mycothermus thermophilus,50.0,,
+3.2.1.4,Mycothermus thermophilus,50.0,,both carboxymethycellulase and avicelase acitivity
+3.2.1.4,Neurospora crassa,50.0,,endoglucanase III
+3.2.1.4,Niallia circulans,50.0,,
+3.2.1.4,Paenibacillus sp. M33,50.0,,
+3.2.1.4,Paenibacillus sp. X4,50.0,,
+3.2.1.4,Pomacea maculata,50.0,,hydrolysis of carboxymethyl cellulose
+3.2.1.4,Pomacea maculata,50.0,,"substrate: carboxymethyl cellulose, endo-beta-1,4-glucanase EG45"
+3.2.1.4,Pomacea maculata,50.0,60.0,"substrate: carboxymethyl cellulose, endo-beta-1,4-glucanase EG27"
+3.2.1.4,Pomacea maculata,50.0,,
+3.2.1.4,Psychrobacter aquimaris,50.0,,
+3.2.1.4,Pyrococcus horikoshii,50.0,,assay at
+3.2.1.4,Salipaludibacillus agaradhaerens,50.0,,optimum without NaCl. Enzyme activity increases approximately 6fold at 60?C with 0.2 M NaCl compared to that at 50?C without NaCl in 0.1 M glycine-NaOH buffer (pH 9.0)
+3.2.1.4,Sclerotinia sclerotiorum,50.0,,native protein
+3.2.1.4,Sclerotinia sclerotiorum,50.0,,
+3.2.1.4,Sclerotinia sclerotiorum,50.0,,
+3.2.1.4,Sclerotinia sclerotiorum,50.0,,
+3.2.1.4,Streptomyces bacillaris,50.0,,
+3.2.1.4,Streptomyces reticuli,50.0,,CMCase 2
+3.2.1.4,Talaromyces funiculosus,50.0,,
+3.2.1.4,Talaromyces funiculosus,50.0,,
+3.2.1.4,Teleogryllus emma,50.0,,carboxymethyl cellulase activity of the fusion enzyme (EG-M-Xyn) of endoglucanase (cellulase) from Teleogryllus emma and xylanase from Thermomyces lanuginosus and of the parental endoglucanase
+3.2.1.4,Thermobifida fusca,50.0,,assay at
+3.2.1.4,Thermobifida fusca,50.0,,assay at
+3.2.1.4,Thermochaetoides thermophila,50.0,,in vivo assay at
+3.2.1.4,Thermothelomyces thermophilus,50.0,,
+3.2.1.4,Trametes hirsuta,50.0,,
+3.2.1.4,Trichoderma asperellum,50.0,,assay at
+3.2.1.4,Trichoderma asperellum,50.0,,assay at
+3.2.1.4,Trichoderma harzianum,50.0,,assay at
+3.2.1.4,Trichoderma koningii,50.0,,
+3.2.1.4,Trichoderma reesei,50.0,,assay at
+3.2.1.4,Trichoderma reesei,50.0,,assay at
+3.2.1.4,Trichoderma sp.,50.0,,
+3.2.1.4,Trichoderma viride,50.0,,
+3.2.1.4,Trichoderma viride,50.0,,cellulase II-B
+3.2.1.4,Trichoderma viride,50.0,,endoglucanase V and VI
+3.2.1.4,Trichoderma viride,50.0,,
+3.2.1.4,uncultured microorganism,50.0,,
+3.2.1.4,Dickeya chrysanthemi,52.0,,"hydrolysis of carboxymethylcellulose, endoglucanase Z"
+3.2.1.4,Trichoderma reesei,52.0,,
+3.2.1.4,Actinomyces sp. 40,55.0,,
+3.2.1.4,Apriona germarii,55.0,,
+3.2.1.4,Artemia salina,55.0,,
+3.2.1.4,Aspergillus fumigatus,55.0,,
+3.2.1.4,Aspergillus fumigatus,55.0,,
+3.2.1.4,Aspergillus glaucus,55.0,,recombinant enzyme
+3.2.1.4,Aspergillus oryzae,55.0,,
+3.2.1.4,Aspergillus terreus,55.0,,hydrolysis of filter paper
+3.2.1.4,Aspergillus terreus,55.0,,
+3.2.1.4,Bacillus sp. (in: firmicutes),55.0,,high level of activity is produced when organism is grown at 55?C
+3.2.1.4,Bacillus sp. (in: firmicutes),55.0,,presence of 2.5 M NaCl
+3.2.1.4,Bacillus subtilis,55.0,,
+3.2.1.4,Bacillus velezensis,55.0,,
+3.2.1.4,Beltraniella portoricensis,55.0,,
+3.2.1.4,Dickeya chrysanthemi,55.0,,
+3.2.1.4,Gymnascella citrina,55.0,,
+3.2.1.4,Mucor circinelloides,55.0,,
+3.2.1.4,Neurospora crassa,55.0,,endoglucanase I and II
+3.2.1.4,Niallia circulans,55.0,,hydrolysis of carboxymethylcellulose
+3.2.1.4,Rhizopus arrhizus,55.0,,RCE1 and RCE2
+3.2.1.4,Ruminococcus albus,55.0,,carboxymethylcellulose-degrading activity
+3.2.1.4,Streptomyces lividans,55.0,,
+3.2.1.4,Thermochaetoides thermophila,55.0,,hydrolysis of cotton
+3.2.1.4,Thermochaetoides thermophila,55.0,,
+3.2.1.4,Thermochaetoides thermophila,55.0,,
+3.2.1.4,Thermochaetoides thermophila,55.0,,for CTendo7's xylanase activity and endoglucanase activity
+3.2.1.4,uncultured bacterium,55.0,,
+3.2.1.4,uncultured microorganism,55.0,,
+3.2.1.4,Volvariella volvacea,55.0,,hydrolysis of carboxymethylcellulose
+3.2.1.4,Thermobifida fusca,58.0,,endoglucanase E2
+3.2.1.4,Acetivibrio thermocellus,60.0,,51000 Da subunit from the multicomponent cellulase complexes
+3.2.1.4,Acetivibrio thermocellus,60.0,,endoglucanase 1b
+3.2.1.4,Acetivibrio thermocellus,60.0,,enzyme form EGD
+3.2.1.4,Acetivibrio thermocellus,60.0,,wild-type CtGH5 and chimeric mutant CtGH1-CtGH5 F194A
+3.2.1.4,Acinetobacter sp. KKU44,60.0,,
+3.2.1.4,Alicyclobacillus acidocaldarius,60.0,,mutant lacking the IgG-like domain
+3.2.1.4,Aspergillus fischeri,60.0,,
+3.2.1.4,Aspergillus flavus,60.0,,
+3.2.1.4,Aspergillus terreus,60.0,,hydrolysis of carboxymethylcellulose
+3.2.1.4,Bacillus licheniformis,60.0,,
+3.2.1.4,Bacillus licheniformis,60.0,,
+3.2.1.4,Bacillus sp. (in: firmicutes),60.0,,assay at
+3.2.1.4,Bacillus sp. SR22,60.0,,
+3.2.1.4,Bacillus subtilis,60.0,,
+3.2.1.4,Bacillus subtilis,60.0,,assay at
+3.2.1.4,Bacillus subtilis,60.0,,S78 mutant
+3.2.1.4,Bacillus subtilis,60.0,,
+3.2.1.4,Bacillus subtilis,60.0,,substrate: carboxymethyl cellulose
+3.2.1.4,Bacillus subtilis,60.0,65.0,
+3.2.1.4,Bispora sp. MEY-1,60.0,,
+3.2.1.4,Bursaphelenchus xylophilus,60.0,,
+3.2.1.4,Bursaphelenchus xylophilus,60.0,,
+3.2.1.4,Bursaphelenchus xylophilus,60.0,,
+3.2.1.4,Cellulomonas flavigena,60.0,,
+3.2.1.4,Chrysosporium lucknowense,60.0,,endoglucanase EG28
+3.2.1.4,Chrysosporium lucknowense,60.0,,endoglucanase EG60
+3.2.1.4,Fusarium verticillioides,60.0,,cellulase I
+3.2.1.4,Geobacillus thermodenitrificans,60.0,,assay at
+3.2.1.4,Haloarcula sp.,60.0,,
+3.2.1.4,Mycothermus thermophilus,60.0,,
+3.2.1.4,Mycothermus thermophilus,60.0,70.0,
+3.2.1.4,Neobacillus sedimentimangrovi,60.0,,
+3.2.1.4,Neurospora crassa,60.0,,
+3.2.1.4,Parageobacillus thermoglucosidasius,60.0,,
+3.2.1.4,Phialophora sp. CGMCC 3328,60.0,,"50-70, determnined at 30-80?C, pH 6 for 30 min"
+3.2.1.4,Rhizopus arrhizus,60.0,,
+3.2.1.4,Robillarda sp.,60.0,,CMCase I
+3.2.1.4,Ruminiclostridium josui,60.0,,recombinant enzyme
+3.2.1.4,Ruminiclostridium josui,60.0,,hydrolysis of carboxymethylcellulose
+3.2.1.4,Salipaludibacillus agaradhaerens,60.0,,optimum with 0.2 M NaCl. Enzyme activity increases approximately 6fold at 60?C with 0.2 M NaCl compared to that at 50?C without NaCl in 0.1 M glycine-NaOH buffer (pH 9.0)
+3.2.1.4,Sclerotinia sclerotiorum,60.0,,recombinant protein
+3.2.1.4,Staphylotrichum coccosporum,60.0,,
+3.2.1.4,Stegonsporium opalus,60.0,,recombinant wild-type enzyme
+3.2.1.4,Streptomyces rochei,60.0,,catalytic domain
+3.2.1.4,Streptomyces sp.,60.0,,
+3.2.1.4,Streptomyces sp. G12,60.0,,recombinant wild-type and mutant enzymes
+3.2.1.4,Thermoascus aurantiacus,60.0,,assay at
+3.2.1.4,Thermochaetoides thermophila,60.0,,
+3.2.1.4,Thermochaetoides thermophila,60.0,,
+3.2.1.4,Thermochaetoides thermophila,60.0,,
+3.2.1.4,Thermochaetoides thermophila,60.0,,wild-type and mutants
+3.2.1.4,Thermothelomyces thermophilus,60.0,,
+3.2.1.4,Thermothielavioides terrestris,60.0,,
+3.2.1.4,Trichoderma atroviride,60.0,,
+3.2.1.4,Trichoderma reesei,60.0,,free and immobilized enzyme
+3.2.1.4,Trichoderma reesei,60.0,,highest efficiency is observed at
+3.2.1.4,Trichoderma reesei,60.0,,
+3.2.1.4,Trichoderma viride,60.0,,
+3.2.1.4,Trichoderma viride,60.0,,"endoglucanase I, II, and III"
+3.2.1.4,Trichoderma viride,60.0,,cellulase IIa
+3.2.1.4,uncultured bacterium,60.0,,"enzyme MgCel6A exhibits maximum activity at 85?C and pH 5.0 on carboxymethyl cellulose (CMC), but in prolonged incubations with the industrial substrate, the highest yields are obtained at 60?C, pH 6.0"
+3.2.1.4,uncultured bacterium,60.0,70.0,
+3.2.1.4,uncultured rumen bacterium,60.0,,
+3.2.1.4,Volvariella volvacea,60.0,,recombinant enzyme
+3.2.1.4,Talaromyces verruculosus,61.0,80.0,
+3.2.1.4,Acetivibrio thermocellus,62.0,,
+3.2.1.4,Trichoderma reesei,64.0,,wild-type
+3.2.1.4,Acetivibrio thermocellus,65.0,,
+3.2.1.4,Alicyclobacillus acidocaldarius,65.0,,wild-type
+3.2.1.4,Bacillus sp. (in: firmicutes),65.0,,
+3.2.1.4,Bacillus subtilis,65.0,,
+3.2.1.4,Bacillus vallismortis,65.0,,
+3.2.1.4,Cellulomonas fimi,65.0,,
+3.2.1.4,Chrysosporium lucknowense,65.0,,endoglucanase EG25
+3.2.1.4,Chrysosporium lucknowense,65.0,70.0,endoglucanase EG47
+3.2.1.4,Gloeophyllum trabeum,65.0,,
+3.2.1.4,Mahella australiensis,65.0,,
+3.2.1.4,Melanocarpus albomyces,65.0,70.0,
+3.2.1.4,Mycothermus thermophilus,65.0,,
+3.2.1.4,Mycothermus thermophilus,65.0,,
+3.2.1.4,Paenibacillus barcinonensis,65.0,,
+3.2.1.4,Phialophora sp. CGMCC 3328,65.0,,"50-70, determnined at 30-80?C, pH 7 for 30 min"
+3.2.1.4,Streptomyces rochei,65.0,,whole enzyme
+3.2.1.4,Teleogryllus emma,65.0,,parental xylanase
+3.2.1.4,Thermoascus aurantiacus,65.0,,hydrolysis of yeast glucan with cellulase I or hydrolysis of carboxymethylcellulose with cellulase III
+3.2.1.4,Thermoascus aurantiacus,65.0,,"cellulase III, substrate: carboxymethylcellulose"
+3.2.1.4,Thermothelomyces thermophilus,65.0,,
+3.2.1.4,Thermothelomyces thermophilus,65.0,,
+3.2.1.4,Thermothelomyces thermophilus,65.0,,
+3.2.1.4,Thermothielavioides terrestris,65.0,,
+3.2.1.4,Xylella fastidiosa,65.0,,wild-type cellulase Xf818 and recombinant His-tagged cellulase Xf818his
+3.2.1.4,Sporotrichum pulverulentum,66.0,,hydrolysis of carboxymethylcellulose
+3.2.1.4,Thermothelomyces thermophilus,68.0,,activity on filter paper and carboxymethyl cellulose
+3.2.1.4,Acetivibrio thermocellus,70.0,,"deletion variants CelEM1, CelEM2 and CelEM3"
+3.2.1.4,Aspergillus fumigatus,70.0,,
+3.2.1.4,Aspergillus niger,70.0,,
+3.2.1.4,Aspergillus niger,70.0,,
+3.2.1.4,Aspergillus tubingensis,70.0,,
+3.2.1.4,Bacillus sp. (in: firmicutes),70.0,,
+3.2.1.4,Chrysosporium lucknowense,70.0,,endoglucanase EG44
+3.2.1.4,Chrysosporium lucknowense,70.0,,endoglucanase EG51
+3.2.1.4,Dictyoglomus turgidum,70.0,,
+3.2.1.4,Fusarium oxysporum,70.0,,
+3.2.1.4,Geobacillus sp.,70.0,,carboxymethyl cellulose
+3.2.1.4,Geobacillus sp. KP43,70.0,,
+3.2.1.4,Lenzites trabea,70.0,,
+3.2.1.4,Melanocarpus albomyces,70.0,,
+3.2.1.4,Melanocarpus albomyces,70.0,,
+3.2.1.4,Mycothermus thermophilus,70.0,,
+3.2.1.4,Phanerodontia chrysosporium,70.0,,
+3.2.1.4,Pseudomonas putida,70.0,,enzyme is thermoactive
+3.2.1.4,Syncephalastrum racemosum,70.0,,
+3.2.1.4,Teleogryllus emma,70.0,,xylanase activity of the fusion enzyme (EG-M-Xyn) of endoglucanase (cellulase) from Teleogryllus emma and xylanase from Thermomyces lanuginosus
+3.2.1.4,Thermoascus aurantiacus,70.0,,
+3.2.1.4,Thermoascus aurantiacus,70.0,,
+3.2.1.4,Thermochaetoides thermophila,70.0,,isoform cellobiohydrolase II
+3.2.1.4,Thermochaetoides thermophila,70.0,,
+3.2.1.4,Thermothelomyces heterothallicus,70.0,,hydrolysis of carboxymethylcellulose
+3.2.1.4,Thermothelomyces thermophilus,70.0,,
+3.2.1.4,uncultured bacterium,70.0,,
+3.2.1.4,uncultured bacterium,70.0,,
+3.2.1.4,Xanthomonas sp. EC102,70.0,,
+3.2.1.4,Agroathelia rolfsii,74.0,,endoglucanase A
+3.2.1.4,Thermobifida fusca,74.0,,endoglucanase E1
+3.2.1.4,Acetivibrio thermocellus,75.0,,enzyme form EGA
+3.2.1.4,Aspergillus niger,75.0,,presence of tris-(2-hydroxyethyl)-methylammonium methylsulfate
+3.2.1.4,Bacillus sp. (in: firmicutes),75.0,,carboxymethyl cellulose
+3.2.1.4,Rasamsonia emersonii,75.0,80.0,
+3.2.1.4,Rasamsonia emersonii,75.0,80.0,"endocellulases I, endocellulases II, endocellulases III, endocellulases IV, substrate: carboxymethyl cellulose, pH 5.0"
+3.2.1.4,Thermoascus aurantiacus,75.0,,hydrolysis of carboxymethylcellulose with cellulase I
+3.2.1.4,Thermoascus aurantiacus,75.0,,"cellulase I, substrate: carboxymethylcellulose"
+3.2.1.4,Thermochaetoides thermophila,75.0,,isoform cellobiohydrolase I
+3.2.1.4,Aspergillus niger,78.9,,
+3.2.1.4,Fervidobacterium nodosum Rt17-B1,79.8,,
+3.2.1.4,Acidothermus cellulolyticus,80.0,,
+3.2.1.4,Alicyclobacillus vulcanalis,80.0,,
+3.2.1.4,Aquifex aeolicus,80.0,,hydrolysis of carboxymethylcellulose
+3.2.1.4,Fervidobacterium nodosum,80.0,,
+3.2.1.4,Pyrococcus furiosus,80.0,,assay at
+3.2.1.4,Pyrococcus horikoshii,80.0,,assay at
+3.2.1.4,Saccharolobus solfataricus,80.0,,
+3.2.1.4,Thermosipho sp. LD-2008,80.0,,
+3.2.1.4,Thermotoga maritima,80.0,,
+3.2.1.4,Trichoderma reesei,81.0,,mutant T57N/E53D/S79P/T80E/V101I/S133R/N155E/G189S/F191V/T233V/G239E/V265T/D271Y/G293A/S309W/S318P
+3.2.1.4,Caldicellulosiruptor saccharolyticus,85.0,,
+3.2.1.4,Pyrococcus furiosus,85.0,,assay at
+3.2.1.4,Pyrococcus horikoshii,85.0,,assay at
+3.2.1.4,Pyrococcus horikoshii,85.0,,assay at
+3.2.1.4,Pyrococcus horikoshii,85.0,,assay at
+3.2.1.4,Saccharolobus solfataricus,85.0,,hybrid protein (CelA-SSO1949-CelA) based on beta-endoglucanase from Sulfolobus solfataricus P2 and beta-endoglucanase from Thermotoga maritima
+3.2.1.4,Saccharolobus solfataricus,85.0,,"chimeric fusion protein CelA-SSO1949-CelA, that consists of 70 amino acids CelA followed by 163 amino acids SSO1949 and 29 amino acids CelA"
+3.2.1.4,Thermotoga maritima,85.0,,"chimeric fusion protein CelA-SSO1949-CelA, that consists of 70 amino acids CelA followed by 163 amino acids SSO1949 and 29 amino acids CelA"
+3.2.1.4,Thermotoga maritima,85.0,,wild-type
+3.2.1.4,Thermotoga maritima,85.0,,wild-type
+3.2.1.4,Pyrococcus horikoshii,90.0,,mutant enzyme C106A/C159A/C372A/C412A
+3.2.1.4,Rasamsonia emersonii,90.0,,
+3.2.1.4,Rasamsonia emersonii,90.0,,recombinant wild-type enzyme
+3.2.1.4,Saccharolobus solfataricus,90.0,,enzyme recombinantly expressed in Sulfolobus solfataricus
+3.2.1.4,Saccharolobus solfataricus,90.0,,
+3.2.1.4,Thermotoga maritima,90.0,,
+3.2.1.4,uncultured bacterium,90.0,95.0,
+3.2.1.4,Saccharolobus shibatae,95.0,100.0,recombinant enzyme
+3.2.1.4,Saccharolobus solfataricus,95.0,,
+3.2.1.4,Thermotoga maritima,95.0,,native enzyme
+3.2.1.4,Thermotoga petrophila,95.0,,
+3.2.1.4,Pyrococcus horikoshii,97.0,,
+3.2.1.4,Pyrococcus horikoshii,97.0,,
+3.2.1.4,Bartalinia pondoensis,100.0,,
+3.2.1.4,Pyrococcus furiosus,100.0,,
+3.2.1.4,Pyrococcus horikoshii,100.0,,optimal temperature is above 100?C
+3.2.1.4,Thermotoga maritima,100.0,,mutant Y61G
+3.2.1.4,uncultured bacterium,100.0,,or higher
+3.2.1.4,uncultured archaeon,115.0,,

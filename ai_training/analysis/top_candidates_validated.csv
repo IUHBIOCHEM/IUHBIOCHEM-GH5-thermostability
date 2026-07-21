@@ -1,0 +1,56 @@
+Accession,Organism,Predicted_OGT_C,P_thermostable,Domain_cov_%,ActiveSite_12
+KAN5179232.1,Kwoniella mangroviensis CBS 8886,57.6,0.937,90,10
+KAN5220399.1,Kwoniella ovata,53.9,0.992,90,10
+CAK4029967.1,Lecanosticta acicola,45.4,0.993,99,12
+KAK4687586.1,Tremellales sp. Uapishka_1,45.2,0.979,94,7
+WRK65563.1,Sporocytophaga sp. CX11,41.7,1.0,99,11
+BCE02488.1,Marinicellulosiphila megalodicopiae,38.5,1.0,100,11
+P06564.1,Halalkalibacter akibai JCM 9157,38.1,0.968,100,11
+KAN5251310.1,Kwoniella fici,38.1,0.899,94,9
+KAK7253611.1,Aureococcus anophagefferens,38.1,1.0,100,12
+KAN8817307.1,[Neocosmospora] sp. B6999-5,37.4,1.0,96,11
+KAN8920830.1,[Neocosmospora] sp. B6999-1,37.1,0.999,96,11
+KAN8814360.1,[Neocosmospora] sp. B6999-4,37.1,0.999,96,11
+KAN8828900.1,[Neocosmospora] sp. B6999-4,37.1,0.999,96,11
+KAN8894640.1,[Neocosmospora] sp. B6999-4,37.1,0.999,96,11
+KAN8913245.1,[Neocosmospora] sp. B6999-1,37.1,0.999,96,11
+KAN8875137.1,[Neocosmospora] sp. B6999-4,37.1,0.999,96,11
+KAN8987137.1,[Neocosmospora] sp. B6999-1,37.1,0.999,96,11
+KAN8958632.1,[Neocosmospora] sp. B6999-1,37.1,0.999,96,11
+KAN8940967.1,[Neocosmospora] sp. B6999-1,37.1,0.999,96,11
+KAN9010335.1,[Neocosmospora] sp. B6999-1,37.1,0.999,96,11
+KAN8996042.1,[Neocosmospora] sp. B6999-1,37.1,0.999,96,11
+KAN8916882.1,[Neocosmospora] sp. B6999-2,35.9,1.0,96,11
+KAN8852885.1,[Neocosmospora] sp. B6999-2,35.9,1.0,96,11
+KAN8868907.1,[Neocosmospora] sp. B6999-3,35.8,0.991,90,10
+KAN8854191.1,[Neocosmospora] sp. B6999-3,35.2,1.0,96,11
+KAN8826142.1,[Neocosmospora] sp. B6999-2,32.3,0.999,99,10
+KAN8882919.1,[Neocosmospora] sp. B6999-2,32.3,0.999,99,10
+KAN8840965.1,[Neocosmospora] sp. B6999-3,32.3,0.995,99,10
+KAN8803722.1,[Neocosmospora] sp. B6999-5,32.0,1.0,93,10
+KAN8794480.1,[Neocosmospora] sp. B6999-4,31.9,1.0,90,10
+KAN8895971.1,[Neocosmospora] sp. B6999-2,31.8,1.0,93,10
+KAN8829913.1,[Neocosmospora] sp. B6999-2,31.8,1.0,93,10
+KAN8943873.1,[Neocosmospora] sp. B6999-1,31.5,1.0,93,10
+KAN8988820.1,[Neocosmospora] sp. B6999-1,31.5,1.0,93,10
+KAN8989203.1,[Neocosmospora] sp. B6999-1,31.5,1.0,93,10
+KAN8950477.1,[Neocosmospora] sp. B6999-1,31.5,1.0,93,10
+KAN9041639.1,[Neocosmospora] sp. B6999-1,31.5,1.0,93,10
+KAN8922541.1,[Neocosmospora] sp. B6999-1,31.5,1.0,93,10
+KAN8905054.1,[Neocosmospora] sp. B6999-1,31.5,1.0,93,10
+KAN9035696.1,[Neocosmospora] sp. B6999-1,28.0,1.0,98,11
+KAN9000064.1,[Neocosmospora] sp. B6999-1,28.0,1.0,98,11
+KAN8903829.1,[Neocosmospora] sp. B6999-1,28.0,1.0,98,11
+KAN8993117.1,[Neocosmospora] sp. B6999-1,28.0,1.0,98,11
+KAN8943244.1,[Neocosmospora] sp. B6999-1,28.0,1.0,98,11
+KAN8921393.1,[Neocosmospora] sp. B6999-1,28.0,1.0,98,11
+KAN8953001.1,[Neocosmospora] sp. B6999-1,28.0,1.0,98,11
+KAN8852068.1,[Neocosmospora] sp. B6999-2,27.8,1.0,98,11
+KAN8894239.1,[Neocosmospora] sp. B6999-2,27.8,1.0,98,11
+KAN8854989.1,[Neocosmospora] sp. B6999-3,27.8,1.0,98,11
+KAN8860161.1,[Neocosmospora] sp. B6999-4,27.7,0.999,98,11
+KAN8798137.1,[Neocosmospora] sp. B6999-4,27.7,0.999,98,11
+KAN8808855.1,[Neocosmospora] sp. B6999-4,27.7,0.999,98,11
+KAN8879625.1,[Neocosmospora] sp. B6999-4,27.7,0.999,98,11
+KAN8795609.1,[Neocosmospora] sp. B6999-5,27.5,1.0,98,11
+P16216.1,Hominimerdicola alba,25.5,0.989,96,11

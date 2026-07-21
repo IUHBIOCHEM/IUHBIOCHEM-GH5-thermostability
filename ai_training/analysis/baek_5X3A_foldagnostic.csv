@@ -1,0 +1,6 @@
+mutation,RSA,surface,dist_catalytic_A,distal,charge_change
+Q87T,0.47,True,12.3,True,0.0
+D152G,0.27,True,12.5,True,1.0
+Y307H,0.12,False,19.6,True,0.5
+V330A,0.03,False,29.4,True,0.0
+N344D,0.73,True,26.1,True,-1.0
