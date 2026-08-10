@@ -18,7 +18,7 @@ identifies a **position-specific charge-adaptation signature** and maps it to re
 
 ```
 GH5-thermostability/
-├── scripts/          # all 60 pipeline scripts (01–55) — run from the repository root
+├── scripts/          # all 44 pipeline scripts — run from the repository root
 ├── data_public/      # clean public dataset: metadata / hotspots / structures / FoldX_results CSVs
 ├── ai_training/      # curated datasets, per-analysis result CSVs, key PDB structures
 ├── data_family/      # GH1/GH10/GH11 sets for the cross-family generalization test

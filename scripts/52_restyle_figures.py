@@ -424,41 +424,6 @@ def graphical_abstract():
     print("Graphical abstract done")
 
 
-# =========================================================================
-# FIGURE 21 — final conceptual model (ultra-simple biological pathway)
-# =========================================================================
-def conceptual_model():
-    steps = [
-        ("Catalytic core", "conserved · cannot mutate", "#39434F"),
-        ("Evolutionarily permissive positions", "free to vary", "#6E93B8"),
-        ("Glu / Lys accumulation", "temperature-driven", "#D98C7A"),
-        ("Peripheral electrostatic network", "surface salt bridges", "#C0392B"),
-        ("Cumulative stabilization", "−1.0 kcal/mol", "#8E2A20"),
-        ("Thermostability", "catalysis preserved", GREEN),
-    ]
-    fig = plt.figure(figsize=(8.6, 11.4)); ax = fig.add_axes([0, 0, 1, 1]); ax.axis("off")
-    ax.set_xlim(0, 1); ax.set_ylim(0, 1)
-    n = len(steps); top, bot = 0.9, 0.06
-    ys = np.linspace(top, bot, n); bh = (ys[0] - ys[1]) * 0.66; bw = 0.66; cx = 0.52
-    for i, (txt, sub, fc) in enumerate(steps):
-        flow_box(ax, cx, ys[i], bw, bh, txt, fc, "white", fs=18, pad=0.006)
-        ax.text(cx, ys[i] - bh * 0.34, sub, ha="center", va="center", fontsize=11.5,
-                color="white", style="italic", zorder=6)
-        if i < n - 1:
-            v_arrow(ax, cx, ys[i] - bh / 2 - 0.006, ys[i + 1] + bh / 2 + 0.006)
-    # left guide: constraint releases downward
-    ax.annotate("", xy=(0.1, bot), xytext=(0.1, top),
-                arrowprops=dict(arrowstyle="-|>", lw=2.2, color="#B7BFC8"))
-    ax.text(0.075, top, "catalysis\nfixed", ha="center", va="top", fontsize=11.5,
-            color="#7d858e", linespacing=1.1)
-    ax.text(0.075, bot + 0.02, "stability\ntuned", ha="center", va="bottom", fontsize=11.5,
-            color="#7d858e", linespacing=1.1)
-    ax.text(0.52, 0.965, "How the TIM-barrel gains heat stability", ha="center", va="center",
-            fontsize=17, fontweight="bold", color=INK)
-    fig.savefig(f"{FIG}/Fig21_conceptual.png", dpi=300, bbox_inches="tight"); plt.close(fig)
-    print("Fig21 conceptual model done")
-
-
 if __name__ == "__main__":
-    fig14(); fig15(); fig16(); fig18(); graphical_abstract()  # Fig21 removed (duplicated Fig18d)
+    fig14(); fig15(); fig16(); fig18(); graphical_abstract()
     print("ALL FIGURES RESTYLED")
