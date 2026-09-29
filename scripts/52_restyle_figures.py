@@ -1,6 +1,6 @@
 """52_restyle_figures.py — visual-storytelling restyle (NO new analysis).
 Unified Nature-Communications style across Fig14/15/16/18 + graphical abstract.
-All numbers read from cached CSVs; PyMOL structure renders reused from scratchpad.
+All numbers read from cached CSVs; PyMOL structure renders reused from the scratch directory.
 """
 import os
 os.environ.setdefault("KMP_DUPLICATE_LIB_OK", "TRUE")

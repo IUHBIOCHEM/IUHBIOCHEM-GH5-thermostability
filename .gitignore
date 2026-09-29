@@ -52,3 +52,7 @@ trinhtu*
 
 # local render scratch (portable SCRATCH_DIR)
 _scratch/
+
+# never publish manuscript binaries anywhere in the tree
+*.docx
+*.pdf

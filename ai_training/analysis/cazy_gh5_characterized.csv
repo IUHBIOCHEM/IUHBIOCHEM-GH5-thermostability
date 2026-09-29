@@ -1,0 +1,675 @@
+genbank,subfamily,pdb,organism
+AEB53062.1,unassigned,,Desulfurococcaceae archaeon EBI-244
+ACV12553.1,unassigned,,Halorhabdus utahensis DSM 12940
+CAB49854.1,GH5_1,,Pyrococcus abyssi GE5
+BAA30271.1,GH5_1,"2ZUM[A]2ZUN[A,B,C]3AXX[A,B,C]3QHM[A,B,C]3QHN[A,B,C]3QHO[A,B,C]3VVG[A,B,C]3W6L[A,B,C]3W6M[A,B,C]4DM1[A,B,C]4DM2[A,B,C]",Pyrococcus horikoshii OT3
+ALV63957.1,GH5_1,,Thermococcus sp. 2319x1
+AZP54316.1,GH5_1,,uncultured archaeon
+QFQ13828.1,GH5_19,,uncultured archaeon
+TYQ14625.1,GH5_2,8ZVK[A]9WCC[A],Acetivibrio alkalicellulosi
+WP_010248927.1,GH5_4,6MQ4[A],Acetivibrio cellulolyticus
+EFL62381.1,GH5_34,,Acetivibrio cellulolyticus CD2
+AAA23224.1,GH5_4,"4IM4[A,B,C,D,E,F]",Acetivibrio thermocellus
+ABN51643.1,GH5_1,,Acetivibrio thermocellus ATCC 27405
+ABN51772.1,GH5_1,,Acetivibrio thermocellus ATCC 27405
+ABN52056.1,GH5_55,,Acetivibrio thermocellus ATCC 27405
+ABN52701.1,GH5_25,"4U3A[A,B]4U5I[A,B]4U5K[A,B]5BYW[A,B,C,D,E]",Acetivibrio thermocellus ATCC 27405
+ABN53395.1,GH5_34,"2Y8K[A]5AK1[A]5G56[A]5LA0[A]5LA1[A]5LA2[A,B]",Acetivibrio thermocellus ATCC 27405
+ABN54070.1,GH5_1,,Acetivibrio thermocellus ATCC 27405
+CAB76938.1,GH5_1,,Acetivibrio thermocellus F7
+CAC27410.1,GH5_37,,Acetivibrio thermocellus F7
+CAA27266.1,GH5_1,,Acetivibrio thermocellus NCIB 10682
+CAA49187.1,GH5_1,,Acetivibrio thermocellus NCIB 10682
+AAA23225.1,GH5_25,,Acetivibrio thermocellus NCIB 10682
+AAA23220.1,GH5_37,1CEC[A]1CEN[A]1CEO[A],Acetivibrio thermocellus NCIB 10682EL
+AAA75477.1,GH5_1,"1C0D[A,B]1ECE[A,B]1VRX[A,B]",Acidothermus cellulolyticus 11B
+AAC06196.1,GH5_2,,Actinomyces sp. 40
+WP_197062539.1,GH5_26,,Allomuricauda sp. MAR_2010_75
+UHH89916.1,GH5_2,,Aquabacterium sp. A7-Y
+WP_407141409.1,GH5_2,,Aquimarina sp. 2-A2
+ABB92850.1,GH5_5,,Azoarcus sp. BH72
+BAF87299.1,GH5_1,,Azorhizobium caulinodans ORS 571
+ACO76963.1,GH5_45,,Azotobacter vinelandii DJ ATCC BAA-1303
+ADC54852.1,GH5_2,,Bacillus amyloliquefaciens PSM 3.1
+AAL99668.1,GH5_2,,Bacillus amyloliquefaciens UMAS1002
+AIY72753.1,GH5_2,,Bacillus licheniformis
+AAU40778.1,GH5_7,8GF3[A],Bacillus licheniformis DSM 13 = ATCC 14580
+AAU40777.1,GH5_4,4YZP[A]4YZT[A],Bacillus licheniformis DSM 13 = ATCC 14580
+AAU23613.2,GH5_2,,Bacillus licheniformis DSM 13 = ATCC 14580
+AAP51020.1,GH5_2,,Bacillus licheniformis GXN151 / B-41361
+BAA12744.1,GH5_2,,Bacillus sp. (in: firmicutes) 22-28
+AYV97589.1,GH5_2,,Bacillus sp. (in: firmicutes) KD1014
+QGN03632.1,GH5_7,,Bacillus sp. (in: firmicutes) KW1
+CAA83942.1,GH5_2,,Bacillus sp. (in: firmicutes) N186-1
+BAA31712.1,GH5_2,,Bacillus sp. 5H
+AAC02536.1,GH5_2,,Bacillus sp. 79-23
+ADD62401.1,GH5_4,"5E09[A]5E0C[A]5XRC[A,B,C]",Bacillus sp. BG-CS10
+AHH02586.2,GH5_7,,Bacillus sp. HJ14
+BAD99527.1,GH5_8,1WKY[A],Bacillus sp. JAMB-602
+AAA22304.1,GH5_2,1G01[A]1G0C[A],Bacillus sp. KSM-635
+CAJ00039.1,GH5_2,,Bacillus sp. KSM-64 / Bacillus sp. Z-16
+BAB62295.1,GH5_2,,Bacillus sp. KSM-N252
+CAJ00038.1,GH5_2,,Bacillus sp. KSM-S237
+AAT06599.1,GH5_8,3JUG[A],Bacillus sp. N16-5
+AAK73277.1,GH5_2,,Bacillus sp. NBL420
+AAA22307.1,GH5_2,,Bacillus subtilis
+AAO63626.1,GH5_2,,Bacillus subtilis A8-8
+AAK39540.1,GH5_2,,Bacillus subtilis BEC-1 / Y106 / shu-3
+ACI15227.1,GH5_2,,Bacillus subtilis BME-15
+AVD69633.1,GH5_2,,Bacillus subtilis BS-5
+BAA00859.1,GH5_2,,Bacillus subtilis BSE616
+AAK94871.1,GH5_2,,Bacillus subtilis CHZ1
+CAA47429.1,GH5_2,,Bacillus subtilis CK-2
+AAA22496.1,GH5_2,,Bacillus subtilis DLG
+ABV45393.1,GH5_2,,Bacillus subtilis DR
+ACK38261.1,GH5_2,,Bacillus subtilis I15
+AGW99977.1,GH5_2,,Bacillus subtilis IARI-SP-1
+AAZ22322.1,GH5_2,,Bacillus subtilis JA18
+ACR59602.1,GH5_2,,Bacillus subtilis LN
+BAL46915.1,GH5_2,,Bacillus subtilis NC1 / WRL101
+CAA82317.1,GH5_2,"3PZT[A,B]3PZU[A,B]3PZV[A,B,C,D]",Bacillus subtilis subsp. subtilis str. 168
+AGG11030.1,GH5_2,,Bacillus subtilis subsp. subtilis UMC7
+QCW05828.1,GH5_25,,bacterium enrichment culture
+ACR23656.1,GH5_2,,bacterium enrichment culture clone CelA10
+ACR23659.1,GH5_26,,bacterium enrichment culture clone CelA24
+MCF0172482.1,GH5_57,8D89[A],Bacteroidales bacterium
+EEF89776.1,GH5_4,,Bacteroides cellulosilyticus DSM 14838
+EEC54456.1,GH5_21,,Bacteroides eggerthii DSM 20697
+EGF57191.1,GH5_4,,Bacteroides fluxus YIT 12057
+EDV05070.1,GH5_21,,Bacteroides intestinalis DSM 17393
+ALJ47680.1,GH5_4,"3ZMR[A,B]",Bacteroides ovatus ATCC 8483
+ALJ47066.1,GH5_13,,Bacteroides ovatus ATCC 8483
+EDO11417.1,GH5_2,,Bacteroides ovatus ATCC 8483
+EDO11421.1,GH5_5,,Bacteroides ovatus ATCC 8483
+EDO56034.1,GH5_4,,Bacteroides uniformis ATCC 8492
+EDO52192.1,GH5_4,,Bacteroides uniformis ATCC 8492
+AIJ19564.1,GH5_4,"4YHE[A,B]",Bacteroidetes bacterium AC2a
+ACS46797.1,GH5_8,,Bifidobacterium animalis subsp. lactis Bl-04
+AHJ23177.1,GH5_18,,Bifidobacterium breve 689b
+AAN25133.1,GH5_18,,Bifidobacterium longum NCC2705
+EEI79871.1,GH5_18,"7LR1[A,B,C,D]7LR2[A,B,C,D]7LR6[A,B,C,D]",Bifidobacterium longum subsp. longum ATCC 55813
+AAA20893.1,GH5_2,,Butyrivibrio fibrisolvens A46
+CAA35574.1,GH5_4,,Butyrivibrio fibrisolvens H17C
+AAM23649.1,GH5_2,,Caldanaerobacter subterraneus subsp. tengcongensis MB4
+AGA35556.1,GH5_36,"3W0K[A,B]",Caldanaerobius polysaccharolyticus KMTHCJ
+AAD09354.1,unassigned,,Caldanaerobius polysaccharolyticus KMTHCJ
+AAF22274.1,GH5_8,,Caldibacillus cellulovorans
+CAB01405.2,GH5_2,,Caldicellulosiruptor bescii DSM 6725
+ACM60947.1,GH5_8,,Caldicellulosiruptor bescii DSM 6725
+ACM60953.1,GH5_8,,Caldicellulosiruptor bescii DSM 6725
+ACM60954.1,GH5_8,,Caldicellulosiruptor bescii DSM 6725
+ACM60954.1,GH5_1,,Caldicellulosiruptor bescii DSM 6725
+ADQ46879.1,GH5_2,,Caldicellulosiruptor kronotskyensis 2002
+WAM33661.1,GH5_8,,Caldicellulosiruptor morganii DSM 8990
+AAA71887.1,GH5_8,,Caldicellulosiruptor saccharolyticus
+CAA31936.1,GH5_1,,Caldicellulosiruptor saccharolyticus
+ABP66297.1,GH5_2,5ECU[A],Caldicellulosiruptor saccharolyticus DSM 8903
+ABP66692.1,GH5_1,,Caldicellulosiruptor saccharolyticus DSM 8903
+AFO70071.1,GH5_2,,Caldicellulosiruptor sp. F32
+AGM71677.1,GH5_4,"4X0V[A,B,C,D,E,F,G,H]5H4R[A]",Caldicellulosiruptor sp. F32
+AAD30364.1,GH5_1,,Caldicellulosiruptor sp. Tok7B.1
+ACU71175.1,GH5_18,,Catenulispora acidiphila DSM 44928
+ABZ70413.1,GH5_25,,Caulobacter sp. K31
+AAA23089.1,GH5_1,,Cellulomonas fimi ATCC 484
+AAD48494.3,GH5_1,,Cellulomonas flavigena CDBB-531
+ADB80152.1,GH5_2,,Cellulophaga sp. QY3
+ACZ98591.1,GH5_4,,Cellulosilyticum ruminicola CGMCC 1.5065
+AQQ16388.1,GH5_8,,Cellulosimicrobium cellulans YB-43
+AEE43708.1,GH5_8,,Cellulosimicrobium sp. HY-13
+ACE84673.1,GH5_8,,Cellvibrio japonicus Ueda107
+ACE84076.1,GH5_2,8BQA[A]8BQC[A],Cellvibrio japonicus Ueda107
+ACE82655.1,GH5_7,,Cellvibrio japonicus Ueda107
+ACE82870.1,GH5_53,,Cellvibrio japonicus Ueda107
+ACE83841.1,GH5_4,,Cellvibrio japonicus Ueda107
+ACE84905.1,GH5_4,"5OYC[A,B]5OYD[A,B]5OYE[A,B]6HA9[A,B]6HAA[A,B]8OZ1[A]",Cellvibrio japonicus Ueda107
+AAO31760.1,GH5_8,,Cellvibrio japonicus Ueda107
+ACE86198.1,GH5_4,,Cellvibrio japonicus Ueda107
+AAB61461.1,GH5_26,,Cellvibrio mixtus ATCC 12120
+AAB61462.2,GH5_2,,Cellvibrio mixtus ATCC 12120
+AAS19695.1,GH5_7,1UUQ[A]1UZ4[A]7ODJ[A],Cellvibrio mixtus NCIMB 8633
+ACU60063.1,GH5_46,,Chitinophaga pinensis DSM 2588
+CAA44467.2,GH5_1,,Clavibacter michiganensis subsp. michiganensis NCPPB 382
+AAK16222.1,GH5_1,,Clavibacter sepedonicus ATCC 33113
+ADK66823.1,GH5_4,,Clostridiaceae bacterium AN-C16-KBRB
+NLC19267.1,GH5_34,,Clostridiales bacterium
+AXU72614.1,GH5_25,6UJE[A]6UJF[A],Clostridioides difficile DSM 28668
+AAK78802.1,GH5_4,6PZ7[A],Clostridium acetobutylicum ATCC 824
+AAB40891.1,GH5_2,,Clostridium cellulovorans
+AAA23231.1,GH5_4,,Clostridium cellulovorans 743B
+ADL52309.1,GH5_55,,Clostridium cellulovorans 743B
+AAF06110.2,GH5_17,,Clostridium cellulovorans 743B
+AAA23233.1,GH5_4,"3ICG[A,B,C,D]3NDY[A,B,C,D]3NDZ[A,B,C,D]",Clostridium cellulovorans ATCC 35269
+AAD39739.1,GH5_4,6UI3[A],Clostridium cellulovorans ATCC 35269
+AAC37035.1,GH5_4,"6Q1I[A,B]",Clostridium longisporum
+AGF55638.1,GH5_1,,Clostridium saccharoperbutylacetonicum N1-4(HMT)
+AGF55633.1,GH5_7,,Clostridium saccharoperbutylacetonicum N1-4(HMT)
+AEE72695.1,GH5_18,"6GVB[A,B,C,D]",Cutibacterium acnes 266
+ABG58383.1,GH5_2,,Cytophaga hutchinsonii ATCC 33406
+ABG59366.1,GH5_2,5IHS[A],Cytophaga hutchinsonii ATCC 33406
+AAF18152.1,GH5_2,,Dickeya chrysanthemi PY35
+ADM99099.1,GH5_2,"1EGZ[A,B,C]",Dickeya dadantii 3937
+HOP94420.1,GH5_25,,Dictyoglomaceae bacterium
+ACI18520.1,GH5_25,,Dictyoglomus thermophilum H-6-12
+ACK41955.1,GH5_25,,Dictyoglomus turgidum DSM 6724
+ACK41956.1,GH5_36,,Dictyoglomus turgidum DSM 6724
+EGJ99262.1,GH5_4,,Dysgonomonas gadei ATCC BAA-286
+AHE72721.1,GH5_41,,Enterobacter cloacae P101
+BAE46390.1,GH5_4,,Eubacterium cellulosolvens 5
+BAE46390.1,GH5_4,,Eubacterium cellulosolvens 5
+CBK96294.1,GH5_8,,[Eubacterium] siraeum 70/3
+ADU28720.1,GH5_2,,Evansella cellulosilytica DSM 2522
+ADU28719.1,GH5_2,,Evansella cellulosilytica DSM 2522
+ADU31612.1,GH5_2,,Evansella cellulosilytica DSM 2522
+ABS61403.1,GH5_25,"3NCO[A,B]3RJX[A]3RJY[A]",Fervidobacterium nodosum Rt17-B1
+AFG35892.1,GH5_25,6KDD[A],Fervidobacterium pennivorans DSM 9078
+ACX75120.1,unassigned,,Fibrobacter succinogenes subsp. succinogenes S85
+ACX76661.1,GH5_4,,Fibrobacter succinogenes subsp. succinogenes S85
+AAA24893.1,unassigned,,Fibrobacter succinogenes subsp. succinogenes S85
+AAB38548.1,GH5_4,,Fibrobacter succinogenes subsp. succinogenes S85
+AAA50210.1,GH5_52,,Fibrobacter succinogenes subsp. succinogenes S85
+AAC06197.1,GH5_2,,Fibrobacter succinogenes subsp. succinogenes S85
+ABU45500.1,GH5_2,,Fibrobacter succinogenes subsp. succinogenes S85
+ACJ60856.1,GH5_2,4XZB[A]4XZW[A],Geobacillus sp. 70PC53
+AAC71692.1,GH5_7,,Geobacillus stearothermophilus MCA2184
+ATG84609.1,GH5_22,,Geobacillus thermodenitrificans T81
+ATG84593.1,GH5_4,,Geobacillus thermodenitrificans T81
+AXS78200.1,GH5_22,"9KU5[A,B]9KUA[A,B]",Geobacillus thermodenitrificans T81
+ABC30636.1,GH5_2,,Hahella chejuensis KCTC 2396
+BAA00045.1,GH5_2,,Halalkalibacter akibai / KSM-1139
+AFI25187.1,GH5_2,,Halalkalibacter akibai I-1
+BAB04322.1,GH5_4,4V2X[A],Halalkalibacterium halodurans C-125
+BAA32286.1,GH5_2,,Hominimerdicola alba
+EGC02962.1,GH5_37,,Hominimerdicola alba 8
+EGC04285.1,GH5_1,,Hominimerdicola alba 8
+AAA26469.1,GH5_4,,Hominimerdicola alba F-40
+BAA92146.1,GH5_4,,Hominimerdicola alba F-40
+BAA92430.1,GH5_4,,Hominimerdicola alba F-40
+AAA26467.1,GH5_4,,Hominimerdicola alba SY3
+CAA38693.1,GH5_4,,Hominimerdicola alba SY3
+ABX41541.1,GH5_1,,Lachnoclostridium phytofermentans ISDg
+ABX42426.1,GH5_4,,Lachnoclostridium phytofermentans ISDg
+AAU27988.1,unassigned,,Legionella pneumophila subsp. pneumophila str. Philadelphia 1
+ABJ61955.1,GH5_44,,Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293
+WP_018063499.1,GH5_5,,Martelella mediterranea
+AWR88013.1,GH5_25,"7VT4[A,B]7VT5[A]7VT6[A]7VT7[A]7VT8[A]",Meiothermus taiwanensis WR-220
+QSR83793.1,GH5_2,,Microbulbifer sp. ALW1
+SCG47572.1,GH5_40,,Micromonospora rifamycinica DSM 44983
+CAB08388.1,GH5_13,,Mycobacterium tuberculosis H37Rv
+WP_018627464.1,GH5_13,,Niabella aurantiaca DSM 17617
+AAT39478.1,GH5_8,,Niallia circulans
+AAX87002.1,GH5_8,,Niallia circulans CGMCC 1416
+AAX87003.1,GH5_8,,Niallia circulans CGMCC1554
+BAA25878.1,GH5_8,,Niallia circulans K-1
+AGU71466.2,GH5_8,,Niallia nealsonii PN-11
+AHF90519.1,unassigned,"7BOB[A,B,C]",Opitutaceae bacterium TAV5
+CAA73113.1,GH5_4,,Paenibacillus barcinonensis BP-23
+AKP16689.1,unassigned,,Paenibacillus curdlanolyticus B-6
+AAA22408.1,GH5_4,,Paenibacillus lautus PL236
+AAR65335.1,GH5_4,"2JEP[A,B]2JEQ[A]",Paenibacillus pabuli
+AAA22631.1,GH5_1,,Paenibacillus polymyxa
+ABV08875.1,GH5_2,,Paenibacillus polymyxa GS01
+ABV08876.1,GH5_4,,Paenibacillus polymyxa GS01
+AEB00655.1,GH5_1,,Paenibacillus sp. ICGEB2008 / MTCC 5639
+ACT02895.1,GH5_35,,Paenibacillus sp. JDR-2
+AAL83749.1,GH5_1,,Paenibacillus sp. KCTC8848P
+BAE44526.1,GH5_4,,Paenibacillus sp. KM21
+QAT96393.1,GH5_4,,Paenibacillus sp. S09
+YEO41671.1,GH5_1,,Paenibacillus sp. XP01 XP1
+AFC68970.1,GH5_4,,Paenibacillus xylanilyticus KJ-03
+MBR6042486.1,GH5_38,,Paludibacteraceae bacterium
+AAC37033.1,GH5_2,,Pectobacterium carotovorum ATROSEPTICA
+CAA55823.1,GH5_2,,Pectobacterium carotovorum SCC3193
+CAA53592.1,GH5_2,,Pectobacterium carotovorum SCRI193
+AAC02964.2,GH5_2,,Pectobacterium carotovorum subsp. carotovorum LY34
+ADY35478.1,GH5_4,6WQY[A],Phocaeicola salanitronis DSM 18170
+ALC76666.1,unassigned,,Photobacterium panuliri LBS5T
+CBH47174.1,GH5_29,6JYZ[A],Prescottella equi 103S
+CBH49814.1,unassigned,"5CCU[A,B]5DVG[A]5J14[A,B]5J7Z[A,B]",Prescottella equi 103S
+BAF56440.1,GH5_29,,Prescottella equi M-750
+AGG91154.1,GH5_2,,Priestia megaterium L103
+CAA76775.1,GH5_2,"1TVN[A,B]1TVP[A,B]",Pseudoalteromonas haloplanktis A23
+AAS58467.1,GH5_2,,Pseudoalteromonas sp. MB-1
+ACN62172.1,GH5_2,,Pseudoalteromonas sp. NO3
+SDT09889.1,GH5_45,,Pseudomonas oryzae KCTC 32247
+ADG43125.1,GH5_48,,Pseudomonas putida P3(4)
+AEM45646.1,GH5_5,,Pseudomonas sp. MM15
+BAB79288.1,GH5_2,,Pseudomonas sp. ND137
+BAB79290.2,GH5_8,,Pseudomonas sp. ND137
+AEH51033.1,GH5_19,,Pseudothermotoga thermarum DSM 5069
+AAP04424.1,GH5_2,,psychrophilic marine bacterium DY3
+AAA61980.1,GH5_5,,Ralstonia solanacearum AW
+AAB67050.1,GH5_28,"2OSW[A,B]2OSX[A]2OSY[A,B]2OYK[A,B]2OYL[A,B]2OYM[A,B]",Rhodococcus sp. (in: high G+C Gram-positive bacteria) M-777
+BAB17317.1,GH5_28,,Rhodococcus sp. C9
+EME18930.1,unassigned,,Rhodococcus triatomae BKS 15-14
+ACL75216.1,GH5_25,,Ruminiclostridium cellulolyticum H10
+ACL76673.1,GH5_1,,Ruminiclostridium cellulolyticum H10
+ACL74811.1,GH5_2,,Ruminiclostridium cellulolyticum H10
+AAA23221.1,GH5_4,1EDG[A],Ruminiclostridium cellulolyticum H10
+ACL75118.1,GH5_1,,Ruminiclostridium cellulolyticum H10
+ACL75115.1,GH5_17,,Ruminiclostridium cellulolyticum H10
+BAI52931.1,GH5_17,,Ruminiclostridium josui
+BAA12826.1,GH5_2,,Ruminiclostridium josui FERM P-9684
+CBL16772.1,GH5_4,"6WQP[A,B]6WQV[A,B,C,D]",Ruminococcus champanellensis 18P13 = JCM 17042
+CBL16847.1,GH5_1,,Ruminococcus champanellensis 18P13 = JCM 17042
+CBL16523.1,GH5_4,,Ruminococcus champanellensis 18P13 = JCM 17042
+CBL18180.1,GH5_8,,Ruminococcus champanellensis 18P13 = JCM 17042
+CAB05881.1,GH5_4,,Ruminococcus flavefaciens 17
+WP_009984467.1,GH5_4,"6XSU[A,B]",Ruminococcus flavefaciens FD-1
+ABD79918.1,GH5_8,,Saccharophagus degradans 2-40
+ABD80383.1,GH5_41,,Saccharophagus degradans 2-40
+ABD80834.1,GH5_26,"5A8M[A,B,C]5A8N[A]5A8O[A]5A8P[A]5A8Q[A]5A94[A,B,C,D,E,F]5A95[A,B,C]",Saccharophagus degradans 2-40
+ABD81750.1,unassigned,,Saccharophagus degradans 2-40
+ABD81754.1,GH5_2,,Saccharophagus degradans 2-40
+ABD81896.1,GH5_4,,Saccharophagus degradans 2-40
+ABD82186.1,unassigned,,Saccharophagus degradans 2-40
+ABD82260.1,GH5_2,,Saccharophagus degradans 2-40
+ABD82280.1,GH5_47,,Saccharophagus degradans 2-40
+ABD82494.1,GH5_2,,Saccharophagus degradans 2-40
+ABD82496.1,GH5_2,,Saccharophagus degradans 2-40
+BAM21527.1,GH5_2,,Saccharophagus sp. Myt-1
+ACJ71329.1,GH5_4,,Salinivibrio sp. NTU-05
+AAN27517.1,GH5_8,2WHJ[A]2WHL[A],Salipaludibacillus agaradhaerens
+AAC19169.1,GH5_2,1A3H[A]1E5J[A]1H11[A]1H2J[A]1H5V[A]1HF5[A]1HF6[A]1HF7[A]1OCQ[A]1QHZ[A]1QI0[A]1QI2[A]1W3K[A]1W3L[A]2A3H[A]2V38[A]3A3H[A]4A3H[A]5A3H[A]6A3H[A]7A3H[A]8A3H[A],Salipaludibacillus agaradhaerens
+ADI70667.1,GH5_21,,Segatella baroniae B14
+ADI70668.1,GH5_21,,Segatella baroniae B14
+AAC97596.1,GH5_4,"3L55[A,B]3VDH[A,B]5D9M[A,B]5D9N[A,B]5D9O[A,B]5D9P[A,B]6D2W[A,B]",Segatella bryantii B14
+WP_287593649.1,GH5_7,,Segatella copri Bg0019
+UWP52527.1,GH5_4,"9BJX[A,B,C,D]9BMK[A,B]",Segatella copri DSM 18205
+AAG44364.1,GH5_5,,Sinorhizobium meliloti M5N1CS
+AEW98905.1,GH5_18,"7LR7[A]7LR8[A,B]",Streptantibioticus cattleyicolor NRRL 8057 = DSM 46488
+ULR56997.1,GH5_2,,Streptomyces bacillaris ATCC 15855
+ADI04784.1,GH5_43,,Streptomyces bingchenggensis BCW-1
+BAC65342.1,GH5_2,,Streptomyces griseus HUT 6037
+AAA26710.2,GH5_8,,Streptomyces lividans 1326
+ADK91085.1,GH5_8,,Streptomyces sp. S27
+AEN10237.1,GH5_8,4FK9[A],Streptomyces sp. SirexAA-E
+BAK26781.1,GH5_8,"3WSU[A,B]4Y7E[A,B]",Streptomyces thermolilacinus NBRC14274
+BAM62868.1,GH5_8,,Streptomyces thermoluteus NBRC 14269
+ABP80146.1,GH5_5,"4LX4[A,B,C,D]6R2J[A,B,C,D]",Stutzerimonas stutzeri A1501
+WAK85940.1,GH5_2,8C10[A],Teredinibacter sp. 82 / Teredinibacter waterburyi
+ABS72374.1,GH5_2,,Teredinibacter turnerae T7901
+ALX38276.1,GH5_2,"5FIP[A,B,C,D]",Thermoanaerobacterium sp. A57Txylan
+AHB89703.1,GH5_8,,Thermobifida cellulosilytica TB100
+AID15578.1,GH5_8,,Thermobifida fusca BCRC1914
+AAP56348.1,GH5_1,,Thermobifida fusca TM51
+AHB89702.1,GH5_8,,Thermobifida fusca TM51
+AAZ54938.1,GH5_8,,Thermobifida fusca YX
+AAZ56745.1,GH5_1,,Thermobifida fusca YX
+AAZ54939.1,GH5_2,"2CKR[A,B]2CKS[A,B]",Thermobifida fusca YX
+AFK65733.1,GH5_2,,Thermobifida halotolerans YIM 90462
+AHB89704.1,GH5_8,,Thermobifida halotolerans YIM90462
+RAQ95285.1,GH5_22,,Thermogemmatispora tikiterensis T81
+ASV73773.1,unassigned,8AG9[A]8ANX[A]8B3Y[A],Thermogutta terrifontis R1
+BAA22939.1,GH5_1,,thermophilic anaerobe NA10
+AAD36302.1,GH5_7,,Thermotoga maritima MSB8
+AAD36816.1,GH5_25,"3AMC[A,B]3AMD[A,B,C,D]3AMG[A,B]3AOF[A,B]3AZR[A,B]3AZS[A,B]3AZT[A,B,C,D]3MMU[A,B,C,D,E,F,G,H]3MMW[A,B,C,D]",Thermotoga maritima MSB8
+AAD36817.1,GH5_36,"1VJZ[A]7EC9[A,B]7EFZ[A,B]",Thermotoga maritima MSB8
+CAB56856.1,GH5_7,,Thermotoga neapolitana 5068
+ABQ47550.1,GH5_7,3PZ9[A]3PZG[A]3PZI[A]3PZM[A]3PZN[A]3PZO[A]3PZQ[A]6TN6[A],Thermotoga petrophila RKU-1
+AAK60011.1,GH5_1,,Thermus caldophilus GK24
+XAI72224.1,GH5_1,,Thermus sp. YHS003
+AMO13178.1,GH5_4,,uncultured bacterium
+AMO13175.1,GH5_4,,uncultured bacterium
+AMO13177.1,GH5_4,,uncultured bacterium
+AMO13174.1,GH5_38,,uncultured bacterium
+AMO13173.1,GH5_4,,uncultured bacterium
+AMO13176.1,GH5_4,,uncultured bacterium
+AND74761.1,GH5_2,"5I2U[A,B]",uncultured bacterium
+ANN44164.1,GH5_1,"8FC0[A,B,C,D,E,F,G,H]",uncultured bacterium
+ACO55737.1,GH5_5,"4EE9[A]4M24[A]5LJF[A,B]6ZZ3[A,B,C,D]7P6G[A,B]7P6H[A,B]7P6I[A]7P6J[A,B,C,D]",uncultured bacterium
+ACZ54907.1,GH5_4,"4W84[A,B]4W85[A,B]4W86[A,B]4W87[A,B]4W88[A,B]4W89[A,B]",uncultured bacterium
+ADA62505.1,GH5_4,,uncultured bacterium
+ADB44000.1,GH5_4,4W8A[A]4W8B[A],uncultured bacterium
+ADD71777.1,unassigned,,uncultured bacterium
+ADD82896.1,GH5_4,,uncultured bacterium
+QCI34346.1,GH5_25,,uncultured bacterium
+QPA36577.1,GH5_44,"6ZB8[A,B]6ZB9[A,B]",uncultured bacterium
+AEW10554.1,GH5_2,,uncultured bacterium
+AEV59734.1,GH5_37,,uncultured bacterium
+AEV59735.1,GH5_4,,uncultured bacterium
+AEV59725.1,GH5_4,,uncultured bacterium
+AEV59731.1,GH5_37,,uncultured bacterium
+AEV59736.1,GH5_4,,uncultured bacterium
+ADU86901.1,GH5_4,,uncultured bacterium
+ADU86902.1,GH5_4,,uncultured bacterium
+ADU86909.1,GH5_4,"6XSO[A,B]",uncultured bacterium
+ABA42184.1,GH5_2,,uncultured bacterium
+ABA42185.1,GH5_2,,uncultured bacterium
+ABB51612.1,GH5_5,,uncultured bacterium
+AFJ44728.1,GH5_2,,uncultured bacterium
+AFJ05146.1,GH5_26,4HTY[A]4HU0[A],uncultured bacterium
+AFO64636.1,GH5_4,,uncultured bacterium
+AFO64637.1,GH5_4,,uncultured bacterium
+ABA02176.1,GH5_26,,uncultured bacterium
+ABB46200.1,GH5_4,,uncultured bacterium
+ABE60666.1,GH5_39,,uncultured bacterium
+ABE60714.1,GH5_25,,uncultured bacterium
+ABE60715.1,GH5_52,,uncultured bacterium
+AFX88673.1,GH5_2,,uncultured bacterium
+AFX88668.1,GH5_2,,uncultured bacterium
+AFX88666.1,GH5_2,,uncultured bacterium
+AFX88672.1,GH5_2,,uncultured bacterium
+AFX88667.1,GH5_2,,uncultured bacterium
+AGL50932.1,GH5_2,,uncultured bacterium
+ABI94085.1,GH5_2,,uncultured bacterium
+ABI94086.1,GH5_2,,uncultured bacterium
+AHA42547.2,GH5_2,"4M1R[A,B]",uncultured bacterium
+XWN54151.1,GH5_4,,uncultured bacterium
+BAO65790.1,GH5_2,,uncultured bacterium
+BAO65795.1,GH5_2,,uncultured bacterium
+BAO65801.1,GH5_2,,uncultured bacterium
+BAO65799.1,GH5_5,,uncultured bacterium
+BAO65808.1,GH5_25,,uncultured bacterium
+AID57617.1,GH5_25,,uncultured bacterium
+ABW39345.1,GH5_52,,uncultured bacterium
+ABW39351.1,GH5_52,,uncultured bacterium
+AHF23845.1,GH5_37,,uncultured bacterium Contig15
+AHF24998.1,GH5_4,,uncultured bacterium Contig33
+AHF24720.1,GH5_4,,uncultured bacterium Contig783
+AHF25528.1,GH5_4,,uncultured bacterium Contigcl_8
+AFN57700.1,GH5_4,,uncultured bacterium r_06
+AIT97141.1,GH5_4,,uncultured Bacteroidota bacterium
+AIT97140.1,GH5_4,,uncultured Bacteroidota bacterium
+ARO76321.1,GH5_25,,uncultured Dictyoglomus sp.
+QRN45942.1,GH5_4,,uncultured Dictyoglomus sp.
+QRN45943.1,GH5_25,,uncultured Dictyoglomus sp.
+ADM89627.1,GH5_26,,uncultured rumen bacterium
+CAP07661.1,GH5_26,,uncultured rumen bacterium
+AAA91966.1,GH5_37,,unidentified bacterium
+BAG69482.2,GH5_7,,Vibrio sp. MA-138
+BAA25188.1,GH5_8,,Vibrio sp. MA-138
+ADJ93836.1,GH5_2,,Vibrio xiamenensis G21
+ZP_06241352.1,unassigned,,Victivallis vadensis
+AAA27599.1,GH5_26,,Xanthomonas albilineans XAI-I
+CAC18529.1,GH5_1,"4TUF[A,B,C,D]",Xanthomonas campestris pv. campestris
+AAM41068.1,GH5_8,,Xanthomonas campestris pv. campestris str. ATCC 33913
+AAM42791.1,GH5_1,,Xanthomonas campestris pv. campestris str. ATCC 33913
+AMU98328.1,GH5_8,,Xanthomonas citri pv. aurantifolii FDC 1559
+ACU30064.1,GH5_1,,Xanthomonas sp. EC102
+ADE83057.1,GH5_38,,Xylanibacter ruminicola 23
+AAC36862.1,GH5_4,,Xylanibacter ruminicola 23
+AAF83628.1,GH5_1,,Xylella fastidiosa 9a5c
+CAZ94281.1,GH5_4,"6GL0[A,B,C]6GL2[A]",Zobellia galactanivorans DsijT
+KYG48553.1,GH5_5,"8ZI5[A,B,C,D]8ZIK[A,B,C,D]8ZLG[A,B]",Acidomyces richmondensis BFW
+AMD11613.1,GH5_23,,Acremonium sp. DSM 24697 SES201
+AAT97707.1,GH5_15,,Acremonium sp. OXF C13
+CAB76904.1,GH5_7,,Agaricus bisporus C54-CARB8
+CAA90423.1,GH5_7,,Agaricus bisporus D649
+AFN89566.1,GH5_2,,Anoplophora chinensis
+BAJ60954.1,GH5_10,"3VUP[A,B]",Aplysia kurodai
+AAX18655.1,GH5_2,,Apriona germarii
+AHI15751.1,GH5_2,,Apriona japonica
+AHI15746.1,GH5_2,,Apriona japonica
+AAU05478.1,GH5_11,,Arabidopsis thaliana
+AAN72165.1,GH5_7,,Arabidopsis thaliana
+AAP40422.1,GH5_7,,Arabidopsis thaliana
+ABB88954.1,GH5_7,,Armillariella tabescens EJLY2098
+AAA67426.1,GH5_7,,Aspergillus aculeatus KSM 510 / MRC11624
+CEN61341.1,GH5_5,,Aspergillus calidoustus
+PYH98195.1,GH5_5,,Aspergillus ellipticus CBS 707.79
+XP_001262744.1,GH5_7,,Aspergillus fischeri NRRL 181 NRRL 181 / P1
+QMW25446.1,GH5_5,,Aspergillus flavus NRRL3357
+BAL46041.1,GH5_12,"8EXD[A,B,C,D]",Aspergillus fumigatus
+EAL85463.1,GH5_7,,Aspergillus fumigatus Af293
+ACH58410.1,GH5_7,,Aspergillus fumigatus IMI 385708
+ADX78144.1,GH5_5,,Aspergillus fumigatus Z5
+ADX78145.1,GH5_5,,Aspergillus fumigatus Z5
+PYI28634.1,GH5_5,,Aspergillus indologenus CBS 114.80
+BAB62317.1,GH5_5,,Aspergillus kawachii
+GAA89125.1,GH5_7,,Aspergillus luchuensis IFO 4308
+EAA65878.1,GH5_5,,Aspergillus nidulans FGSC A4
+ABF50872.1,GH5_5,,Aspergillus nidulans FGSC A4
+EAA62113.1,GH5_9,,Aspergillus nidulans FGSC A4
+ABF50863.1,GH5_7,,Aspergillus nidulans FGSC A4
+EAA59985.1,GH5_15,,Aspergillus nidulans FGSC A4
+ABF50861.1,GH5_7,,Aspergillus nidulans FGSC A4
+EAA58449.1,GH5_7,,Aspergillus nidulans FGSC A4
+AGG69666.1,GH5_7,,Aspergillus nidulans XZ3
+ACT68011.1,GH5_5,,Aspergillus niger BCRC 31494
+ACJ06979.1,GH5_7,"3WH9[A,B]",Aspergillus niger BK 01
+CAK38078.1,GH5_16,,Aspergillus niger CBS 513.88
+CAK96471.1,GH5_7,31AO[A],Aspergillus niger CBS 513.88
+AAG50051.1,GH5_5,"5I77[A]5I78[A,B]5I79[A,B]",Aspergillus niger IFO31125
+AEY76082.1,GH5_7,,Aspergillus niger LW-1 / E-30
+CAC07551.1,GH5_9,8Z2W[A]8Z2X[A]8Z2Y[A],Aspergillus oryzae CBS 12559
+BAE58099.1,GH5_9,,Aspergillus oryzae RIB40
+EIT83526.1,GH5_4,"9L3D[A,B]9L3J[A,B]9L3O[A,B]9L3P[A]",Aspergillus oryzae RIB40
+BAE61018.1,GH5_23,"6LA0[A,B]",Aspergillus oryzae RIB40
+AHA38074.1,GH5_7,,Aspergillus sp. T16
+ABC59553.1,GH5_7,,Aspergillus sulphureus
+ABE73149.1,GH5_7,,Aspergillus sulphureus 138284
+ADZ99027.1,GH5_7,,Aspergillus usamii E001 / YL-01-78
+KEQ70674.1,GH5_5,,Aureobasidium namibiae CBS 147.97
+OBW63759.1,GH5_5,,Aureobasidium pullulans
+ACH69873.1,GH5_22,,Aureobasidium pullulans 98
+AEM23896.1,GH5_5,,Aureobasidium pullulans ATCC 62921 / NRRL Y-2311-1
+THW02297.1,GH5_5,,Aureobasidium pullulans EXF-11323
+THY20679.1,GH5_5,,Aureobasidium pullulans EXF-8126
+KEQ98060.1,GH5_5,,Aureobasidium subglaciale EXF-2481
+AAF65310.1,GH5_9,,Bipolaris zeicola
+AFY98622.1,GH5_5,,Bispora antennata
+AFJ68087.1,GH5_7,,Bispora antennata CBS 126.38
+ACH56965.1,GH5_7,,Bispora sp. MEY-1
+ADU33273.1,GH5_10,,Callosobruchus maculatus
+ADU33272.1,GH5_10,,Callosobruchus maculatus
+ARU79086.1,GH5_14,,Camellia sinensis
+CAA39908.1,GH5_9,1CZ1[A]1EQC[A]1EQP[A]2PB1[A]2PBO[A]2PC8[A]2PF0[A]3N9K[A]3O6A[A]4M80[A]4M81[A]4M82[A],Candida albicans
+ADW82104.1,GH5_7,,Chaetomium sp. CQ31
+AIC79156.1,GH5_5,,Ciboria shiraiana
+CAC08208.1,GH5_7,,Coffea arabica
+CAC08442.1,GH5_7,,Coffea arabica
+EAU92553.1,GH5_9,,Coprinopsis cinerea okayama7#130
+XP_001830154.1,GH5_7,,Coprinopsis cinerea okayama7#130
+BAL46040.1,GH5_12,,Cryptococcus neoformans H99
+AFR99035.1,GH5_12,"7LPO[A,B,C,D]7LPP[A,B,C,D]7LPQ[A,B,C,D]",Cryptococcus neoformans H99
+ABP02069.1,GH5_5,,Cryptococcus sp. S-2
+ABV68808.1,GH5_10,"4OOU[A,B]4OOZ[A,B]",Cryptopygus antarcticus
+BAB16369.1,GH5_27,,Cyanea nozakii
+AAN34823.1,GH5_7,,Daucus carota
+OJD29238.1,GH5_5,,Diplodia corticola CBS 112549
+EME41652.1,GH5_5,,Dothistroma septosporum NZE10
+AAM21469.1,GH5_9,,Dujonia oleophila
+BBB35836.1,GH5_10,5Y6T[A],Eisenia fetida
+XP_010911540.1,GH5_7,,Elaeis guineensis
+ABK27195.1,GH5_15,,Epichloe festucae FL1
+ABK27199.1,GH5_15,,Epichloe festucae var. lolii LP19
+BAC57895.1,unassigned,,Epidinium caudatum
+BAC57893.1,GH5_4,,Epidinium caudatum
+BAA76394.1,GH5_4,,Epidinium caudatum
+CAH69214.1,GH5_4,,Epidinium ecaudatum
+AYW35863.1,GH5_5,,Evansstolkia leycettana JCM12802
+AJF11663.1,GH5_7,,Evansstolkia leycettana JCM12802
+BAF42338.1,GH5_16,,Fusarium oxysporum 12S
+QDK64599.1,GH5_5,"5D8W[A,B]5D8Z[A,B]",Ganoderma lucidum
+ADU33333.1,GH5_10,,Gastrophysa viridula
+AAN03645.1,GH5_2,,Globodera rostochiensis RO-1
+AAN03647.1,GH5_2,,Globodera rostochiensis RO-1
+AAC63988.1,GH5_2,,Globodera rostochiensis RO-1
+AAC48341.1,GH5_2,,Globodera rostochiensis RO-1
+ADH51728.1,GH5_5,,Gloeophyllum trabeum ATCC 11539
+EPQ57046.1,GH5_7,,Gloeophyllum trabeum ATCC 11539 /  CBS900.73
+OCL02633.1,GH5_5,,Glonium stellatum CBS 207.34
+ABG88068.1,GH5_7,,Glycine max
+XP_003554587.1,GH5_7,9M20[A]9M21[A],Glycine max
+KXS18720.1,GH5_34,,Gonapodya prolifera JEL478
+BAE78456.1,GH5_10,,Haliotis discus hannai
+CAA11018.1,GH5_9,,Hansenula anomala K / NCYC 432
+ACO55952.1,GH5_2,,Heterodera avenae
+AAC15707.1,GH5_2,,Heterodera glycines
+AAC48326.1,GH5_2,,Heterodera glycines
+AAC33848.1,GH5_2,,Heterodera glycines
+BAK05001.1,GH5_7,,Hordeum vulgare subsp. vulgare
+OTA24091.1,GH5_5,,Hortaea werneckii EXF-2000
+BAA12676.1,GH5_5,,Humicola grisea var. thermoidea IFO9854
+CAA53631.1,GH5_5,,Humicola insolens ATCC 16454
+ADZ99301.1,GH5_7,,Humicola insolens Y1
+BAD20464.1,GH5_27,,Hydra magnipapillata
+ACU52526.1,GH5_8,,Hypothenemus hampei
+BAD67544.1,GH5_5,,Irpex lacteus MC-2
+KDQ56244.1,GH5_7,,Jaapia argillacea MUCL 33604
+AAY28969.1,GH5_9,,Komagataella pastoris X-33
+XP_001879429.1,GH5_5,,Laccaria bicolor S238N-H82
+CAC51690.3,GH5_7,,Lactuca sativa
+BAD97445.1,GH5_9,,Lentinula edodes H600
+VAX65844.1,GH5_8,,Lyrodus pedicellatus
+AAB51451.1,GH5_5,,Macrophomina phaseolina
+AAB03889.1,GH5_5,,Macrophomina phaseolina
+AAD45868.1,GH5_2,,Meloidogyne incognita
+AAK21883.2,GH5_2,,Meloidogyne incognita
+AAK21882.1,GH5_2,,Meloidogyne incognita
+AAK21881.1,GH5_2,,Meloidogyne incognita
+CAC81056.1,GH5_10,2C0H[A],Mytilus edulis
+AAC63094.1,GH5_4,,Neocallimastix frontalis
+AAE59927.1,GH5_4,,Neocallimastix patriciarum
+AAC06321.1,GH5_4,,Neocallimastix patriciarum W5
+AAC06321.1,GH5_4,,Neocallimastix patriciarum W5
+AAC06321.1,GH5_4,,Neocallimastix patriciarum W5
+EOD50861.1,GH5_5,,Neofusicoccum parvum UCRNP2
+AAN04103.1,GH5_15,,Neotyphodium sp. FCB-2002
+CAE81955.1,GH5_5,,Neurospora crassa OR74A
+EAA34048.2,GH5_7,,Neurospora crassa OR74A
+CCI55471.1,GH5_7,4AWE[A],Neurospora sitophila DSM 16514
+AAC49731.1,GH5_2,,Orpinomyces joyonii 19-2
+AAB69348.1,GH5_4,,Orpinomyces joyonii SG4
+AAB69347.1,GH5_4,,Orpinomyces joyonii SG4
+AAL01213.1,GH5_7,,Orpinomyces sp. PC-2
+AAD04193.1,GH5_4,,Orpinomyces sp. PC-2
+AAC05164.1,GH5_4,,Orpinomyces sp. PC-2
+AAM08614.1,GH5_14,,Oryza sativa Japonica Group
+ACB06750.1,GH5_5,,Penicillium brasilianum IBT 20888
+AFG25592.1,GH5_4,,Penicillium decumbens 114-2
+ABY28340.1,GH5_5,,Penicillium decumbens 114-2 / JU-A10
+ACR82487.1,GH5_5,,Penicillium echinulatum 9A01S2
+CAA61740.1,GH5_5,,Penicillium janthinellum Biourge IMET 43733 (C41)
+BAG70961.1,GH5_23,,Penicillium multicolor TS-5 / IAM7153
+AGW24296.1,GH5_7,,Penicillium oxalicum GZ-2
+AEV41143.1,GH5_7,,Penicillium sp. enrichment culture clone C6 / ACCC32495
+AFC38441.1,GH5_7,,Penicillium sp. F63 XC-2012 / CGMCC 1669
+AHL69750.2,GH5_22,,Phanerochaete chrysosporium
+ABG79370.1,GH5_7,,Phanerochaete chrysosporium RP78
+ADF28533.1,GH5_7,,Phialophora sp. CGMCC 3329 / P13
+ADZ44606.1,GH5_5,,Phialophora sp. G5 / CGMCC 3328
+CAA86948.1,GH5_9,,Pichia angusta ATCC 14754
+AAF00074.2,GH5_4,3AYR[A]3AYS[A],Piromyces rhizinflatus 2301
+AAD43818.1,GH5_4,,Piromyces rhizinflatus 2301
+CAB92326.1,GH5_4,,Piromyces sp. equi
+CAP71606.1,GH5_7,3ZIZ[A],Podospora anserina S mat+
+AFX59322.1,GH5_7,,Populus trichocarpa
+ADH51729.1,GH5_5,,Postia placenta Mad-698-R
+XP_002475436.1,GH5_5,,Postia placenta Mad-698-R
+BAB86867.1,GH5_2,,Psacothea hilaris
+EME89245.1,GH5_5,,Pseudocercospora fijiensis CIRAD86
+BAD06516.1,GH5_31,,Purpureocillium lilacinum ATCC 36010
+AHV83755.1,GH5_5,,Rasamsonia emersonii CBS 394.64
+AAL33639.2,GH5_5,,Rasamsonia emersonii IMI 392299
+AGV01048.1,GH5_7,"4LYP[A,B]4LYQ[A]4LYR[A]4NRR[A,B]4NRS[A,B]",Rhizomucor miehei CAU432
+AGC24277.1,GH5_7,4L3M[A]4QP0[A],Rhizomucor miehei CAU432 / CGMCC 4967
+EIE79467.1,GH5_12,,Rhizopus delemar RA 99-880
+BAA90480.1,GH5_5,,Robillarda sp. Y-20
+AAB24895.1,GH5_9,,Saccharomyces cerevisiae GRF88
+AAU09785.1,GH5_9,,Saccharomyces cerevisiae S288c
+AAA34599.1,GH5_9,"1H4P[A,B]",Saccharomyces cerevisiae S288c
+CAA86950.1,GH5_9,,Saccharomyces cerevisiae S288c
+NP_012272.1,GH5_12,,Saccharomyces cerevisiae S288c
+AAC60541.1,GH5_5,,Saitozyma flava MUT-6
+EFI96731.1,GH5_5,,Schizophyllum commune H4-8
+CAK8729445.1,unassigned,,Schizosaccharomyces pombe 972h-
+CAB50968.1,GH5_9,,Schizosaccharomyces pombe 972h-
+CAA86951.1,GH5_9,,Schwanniomyces occidentalis ATCC 26077
+EGO18885.1,GH5_7,,Serpula lacrymans var. lacrymans S7.9
+AAK97760.1,GH5_7,1RH9[A],Solanum lycopersicum
+AAB87859.2,GH5_7,,Solanum lycopersicum
+AAM26920.1,GH5_7,,Solanum lycopersicum
+AAG00315.2,GH5_7,,Solanum lycopersicum
+BAD90558.1,GH5_2,,Spirotrichonympha leidyi
+ARO48344.1,GH5_5,,Stegonsporium opalus
+ATY39124.1,GH5_5,,Talaromyces amestolkiae
+GAM33994.1,GH5_5,,Talaromyces cellulolyticus Y-94
+AEV40667.1,GH5_7,,Talaromyces pinophilus C1
+ACN43345.1,GH5_5,,Talaromyces pinophilus KMJ601
+BAP19029.1,GH5_7,3WFL[A],Talaromyces trachyspermus ATCC 24792
+AAL88714.2,GH5_5,"1GZJ[A,B]1H1N[A,B]7R28[A,B]7R29[A,B]7R2A[A,B]7R2C[A,B]7R2D[A,B]9F0M[A,B]9F0N[A,B]",Thermoascus aurantiacus IFO 9748
+AEO53769.1,GH5_5,,Thermothelomyces thermophilus ATCC 42464
+AFJ59924.1,GH5_7,,Thermothelomyces thermophilus C1
+AGG69667.1,GH5_7,,Thielavia arenaria XZ7
+BAD01163.1,GH5_5,,Trametes hirsuta
+XP_008039932.1,GH5_5,,Trametes versicolor
+UNE56028.1,GH5_7,,Trichoderma asperellum ND-1
+QPZ85826.1,GH5_15,,Trichoderma harzianum
+CAA55789.1,GH5_15,,Trichoderma harzianum
+AGH62580.1,GH5_7,,Trichoderma harzianum MGQ2
+ADN93457.1,GH5_7,,Trichoderma longibrachiatum DSM 63060
+AAA34213.1,GH5_5,"3QR3[A,B]",Trichoderma reesei
+AAA34208.1,GH5_7,1QNO[A]1QNP[A]1QNQ[A]1QNR[A]1QNS[A],Trichoderma reesei RUTC-30
+AAR29981.1,GH5_5,,Trichoderma sp. C-4
+AAL84696.1,GH5_15,,Trichoderma virens
+AAQ21383.1,GH5_5,,Trichoderma viride AS 3.3711
+ACD36972.1,GH5_5,,Trichoderma viride AS 3.3711
+BAA36216.1,GH5_5,,Trichoderma viride MC300-1
+BBG31500.1,GH5_5,,Tricholoma matsutake NBRC 30605
+AEQ16450.1,GH5_4,"6XRK[A,B]",uncultured bovine rumen ciliate
+BAF57328.1,GH5_2,,uncultured symbiotic protist of Hodotermopsis sjoestedti
+AAG59832.1,GH5_5,,Volvariella volvacea V14
+ACE06751.1,GH5_5,,Volvariella volvacea WX32
+ACP74152.2,GH5_9,,Williopsis saturnus WC91-2
+ACH67609.1,GH5_37,,uncultured microorganism
+AOA60286.1,GH5_37,,uncultured microorganism
+AOA60287.1,GH5_2,,uncultured microorganism
+AOA60285.1,GH5_37,,uncultured microorganism
+ADB80108.1,GH5_26,,uncultured microorganism
+ADK55024.1,GH5_4,,uncultured microorganism
+ADR64663.1,GH5_4,,uncultured microorganism
+AEK98797.1,GH5_4,,uncultured microorganism
+AFQ39736.1,GH5_4,,uncultured microorganism
+AHW46443.1,GH5_4,,uncultured microorganism
+ACA61132.1,GH5_4,,uncultured microorganism
+ACA61135.1,GH5_4,,uncultured microorganism
+ACA61137.1,GH5_4,,uncultured microorganism
+ACA61140.1,GH5_4,,uncultured microorganism
+ACA61145.1,GH5_4,,uncultured microorganism
+ACA61149.1,GH5_4,,uncultured microorganism
+ACA61152.1,GH5_26,,uncultured microorganism
+ACA61156.1,GH5_26,,uncultured microorganism
+ACA61160.1,GH5_4,,uncultured microorganism
+ACA61165.1,GH5_37,,uncultured microorganism
+ACA61168.1,GH5_26,,uncultured microorganism
+ACY24829.1,GH5_26,,uncultured organism
+ACY24859.1,GH5_2,,uncultured organism
+ADD61786.1,GH5_37,,uncultured organism
+ADD61809.1,GH5_4,,uncultured organism
+ADD61853.1,GH5_1,,uncultured organism
+ADD61911.1,GH5_4,,uncultured organism
+ADX05742.1,GH5_4,,uncultured organism
+ADX05739.1,GH5_37,,uncultured organism
+ADX05725.1,GH5_38,,uncultured organism
+ADX05718.1,unassigned,,uncultured organism
+ADX05717.1,GH5_38,,uncultured organism
+ADX05705.1,GH5_4,,uncultured organism
+ADX05703.1,GH5_4,,uncultured organism
+ADX05697.1,GH5_2,5UHX[A]5WH8[A],uncultured organism
+ADX05696.1,GH5_46,,uncultured organism
+ADX05688.1,GH5_4,,uncultured organism
+ADX05684.1,GH5_2,,uncultured organism
+ADX05760.1,GH5_4,,uncultured organism
+ADX05752.1,GH5_52,,uncultured organism
+ADX05751.1,GH5_26,,uncultured organism
+ADX05740.1,GH5_26,,uncultured organism
+ADX05737.1,GH5_52,,uncultured organism
+ADX05734.1,GH5_4,"4YHG[A,B]",uncultured organism
+ADX05732.1,GH5_26,,uncultured organism
+ADX05729.1,GH5_4,,uncultured organism
+ADX05709.1,GH5_8,,uncultured organism
+AEC45566.1,GH5_1,,uncultured organism
+AGK74985.1,GH5_38,,uncultured organism
+WPA94121.1,GH5_25,,uncultured organism
+WPA94113.1,GH5_39,,uncultured organism
+CAJ19135.1,GH5_4,,unidentified microorganism
+CAJ19139.1,GH5_4,,unidentified microorganism
+CAJ19140.1,GH5_4,,unidentified microorganism
+CAJ19146.1,GH5_4,,unidentified microorganism
+CAJ19149.1,GH5_2,,unidentified microorganism
+CAJ19151.1,GH5_4,,unidentified microorganism
+ABX76045.1,GH5_4,,unidentified microorganism
+ABX76046.1,GH5_4,,unidentified microorganism
+ABX76048.1,GH5_4,,unidentified microorganism
+ABX76050.1,GH5_4,,unidentified microorganism

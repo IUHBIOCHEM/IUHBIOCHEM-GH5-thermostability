@@ -258,19 +258,22 @@ def compose():
     axem = fig.add_subplot(bot[2]); axem.axis("off"); axem.imshow(crop(f"{SCR}/f18_esp_meso.png"))
     axem.set_title("Mesophile — 6PZ7 ($\\mathit{C.\\ acetobutylicum}$)", fontsize=14.5,
                    fontweight="bold", pad=6, color="#4A5568")
-    # central vertical colorbar
+    # central vertical colorbar — larger, explicitly labelled, identical scale for both panels
     cax = fig.add_subplot(bot[1]); box = cax.get_position(); cax.remove()
-    cb_ax = fig.add_axes([box.x0 + box.width * 0.38, box.y0 + box.height * 0.22,
-                          box.width * 0.24, box.height * 0.52])
+    cb_ax = fig.add_axes([box.x0 + box.width * 0.34, box.y0 + box.height * 0.14,
+                          box.width * 0.30, box.height * 0.70])
     sm = ScalarMappable(norm=Normalize(-1, 1), cmap="RdBu")
     cb = fig.colorbar(sm, cax=cb_ax, orientation="vertical", ticks=[-1, 0, 1])
-    cb.ax.set_yticklabels(["−", "0", "+"], fontsize=15, fontweight="bold")
-    cb.ax.tick_params(length=0); cb.outline.set_visible(False)
-    cb_ax.set_title("ESP", fontsize=11, color="#555", pad=4)
+    cb.ax.set_yticklabels(["negative", "0", "positive"], fontsize=11, fontweight="bold")
+    cb.ax.tick_params(length=0)
+    cb.outline.set_visible(True); cb.outline.set_linewidth(0.8); cb.outline.set_edgecolor("#666")
+    cb_ax.set_title("electrostatic\npotential\n(relative,\nidentical scale)", fontsize=9.5,
+                    color="#555", pad=6, linespacing=1.2)
     y2 = outer[2].get_position(fig).y0
     fig.text(0.5, y2 - 0.028,
-             "Vacuum electrostatic surface potential (PyMOL, Amber99 charges; same orientation) — the "
-             "thermophile presents an expanded, more strongly polarized charged surface.",
+             "Vacuum electrostatic surface potential (PyMOL, Amber99 charges; same orientation and identical "
+             "relative colour scale for both structures) — red negative, blue positive. The thermophile "
+             "presents an expanded, more strongly polarized charged surface.",
              ha="center", fontsize=11.5, style="italic", color="#444")
 
     fig.savefig(f"{FIG}/Fig18_model.png", dpi=300, bbox_inches="tight")

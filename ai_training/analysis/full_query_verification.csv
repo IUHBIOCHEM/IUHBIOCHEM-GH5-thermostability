@@ -1,0 +1,7 @@
+stage,count
+full query,40431
+passed PF00150 (true GH5),7508
+failed (not GH5),32923
+annotated 'glycoside hydrolase family 5',1293
+  of these passed,1163
+  of these failed,130

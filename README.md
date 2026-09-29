@@ -18,7 +18,7 @@ identifies a **position-specific charge-adaptation signature** and maps it to re
 
 ```
 GH5-thermostability/
-├── scripts/          # all 44 pipeline scripts — run from the repository root
+├── scripts/          # all 49 pipeline scripts — run from the repository root
 ├── data_public/      # clean public dataset: metadata / hotspots / structures / FoldX_results CSVs
 ├── ai_training/      # curated datasets, per-analysis result CSVs, key PDB structures
 ├── data_family/      # GH1/GH10/GH11 sets for the cross-family generalization test
@@ -53,6 +53,7 @@ run them from the repo root (e.g. `python scripts/26_esm2_ogt_regression.py`).
 | Insert-aware structural correction (canonical) + manuscript/figures | `50_corrected_structural.py`, `51_update_manuscript.py`, `52_restyle_figures.py`, `53_fig18_signature.py` |
 | Consolidate all curated data + reported results into one reviewer workbook | `54_export_data_workbook.py` |
 | Clean public dataset (metadata, hotspots, structures, FoldX) | `55_export_public_data.py` → `data_public/` |
+| Reviewer-response analyses: full-query verification, CAZy subfamily annotation, GH10 active-site integrity, cross-family hotspot mapping, revision figures | `56_full_query_verification.py`, `57_subfamily_annotation.py`, `58_gh10_active_site.py`, `59_cross_family_hotspot.py`, `60_review_supplementary_figures.py` |
 
 > **Note on the mapping correction.** `50_corrected_structural.py` supersedes the alignment→structure
 > mapping used in scripts 41/42/44/45: it is *insert-aware* (`hmmalign(trim=False)`, advancing the
